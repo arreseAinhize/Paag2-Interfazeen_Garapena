@@ -18,6 +18,7 @@ namespace AgendaApp
         {
             InitializeComponent();
             agendaGrafikoa1.Marraztu(Kontaktua.kontaktuak);
+            dataGridView1.DataSource = Kontaktua.kontaktuakBistaratu();
         }
 
         private void btnGehitu_Click(object sender, EventArgs e)
@@ -56,6 +57,9 @@ namespace AgendaApp
             {
                 panelContenedor.Height = (3 * 25) + 30 + 4; // 3 filas de datos + encabezado + bordes
             }
+        
+            dataGridView1.DataSource = null;
+            dataGridView1.DataSource = Kontaktua.kontaktuakBistaratu();
         }
 
         private void btnBilatu_Click(object sender, EventArgs e)
