@@ -64,19 +64,19 @@ namespace AgendaApp
 
         private void btnBilatu_Click(object sender, EventArgs e)
         {
-            if (tbTelefonoa.Text == null)
+            if (tbTelfBilatu.Text == null)
             {
                 MessageBox.Show("Sartu telefono zenbaki bat bilatzeko.");
-            }else if (!int.TryParse(tbTelefonoa.Text, out _))
+            }else if (!int.TryParse(tbTelfBilatu.Text, out _))
             {
                 MessageBox.Show("Telefono zenbaki bat sartu behar duzu.");
-            }else if (Kontaktua.KontaktuaBilatu(int.Parse(tbTelefonoa.Text)) == null)
+            }else if (Kontaktua.KontaktuaBilatu(int.Parse(tbTelfBilatu.Text)) == null)
             {
                 MessageBox.Show("Ez da kontakturik aurkitu zenbaki horrekin.");
             }
             else
             {
-                Kontaktua kontBilatu = Kontaktua.KontaktuaBilatu(int.Parse(tbTelefonoa.Text));// Kontaktu bat itzultzen du.
+                Kontaktua kontBilatu = Kontaktua.KontaktuaBilatu(int.Parse(tbTelfBilatu.Text));// Kontaktu bat itzultzen du.
                 taulaGarbitu();
                 tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Absolute, 25f));
                 tableLayoutPanel1.Controls.Add(new Label { Text = kontBilatu.izena }, 0, 1);

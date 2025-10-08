@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             this.btnGehitu = new System.Windows.Forms.Button();
             this.btnIkusi = new System.Windows.Forms.Button();
             this.btnBilatu = new System.Windows.Forms.Button();
@@ -48,12 +48,14 @@
             this.agendaGrafikoa1 = new AgendaGrafikoa.AgendaGrafikoa();
             this.panelContenedor = new System.Windows.Forms.Panel();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.kontaktuaBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.izenaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.abizenaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.telefonoaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.generoaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.prefijoaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.kontaktuaBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.label6 = new System.Windows.Forms.Label();
+            this.tbTelfBilatu = new System.Windows.Forms.TextBox();
             this.panelContenedor.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.kontaktuaBindingSource)).BeginInit();
@@ -76,7 +78,7 @@
             // 
             this.btnIkusi.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btnIkusi.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnIkusi.Location = new System.Drawing.Point(475, 94);
+            this.btnIkusi.Location = new System.Drawing.Point(475, 109);
             this.btnIkusi.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnIkusi.Name = "btnIkusi";
             this.btnIkusi.Size = new System.Drawing.Size(151, 58);
@@ -89,7 +91,7 @@
             // 
             this.btnBilatu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btnBilatu.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBilatu.Location = new System.Drawing.Point(475, 158);
+            this.btnBilatu.Location = new System.Drawing.Point(474, 276);
             this.btnBilatu.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBilatu.Name = "btnBilatu";
             this.btnBilatu.Size = new System.Drawing.Size(151, 58);
@@ -181,7 +183,7 @@
             this.tbPrefijoa.Location = new System.Drawing.Point(128, 257);
             this.tbPrefijoa.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbPrefijoa.Name = "tbPrefijoa";
-            this.tbPrefijoa.Size = new System.Drawing.Size(289, 22);
+            this.tbPrefijoa.Size = new System.Drawing.Size(291, 22);
             this.tbPrefijoa.TabIndex = 11;
             // 
             // cbGeneroa
@@ -198,12 +200,13 @@
             this.cbGeneroa.Name = "cbGeneroa";
             this.cbGeneroa.Size = new System.Drawing.Size(280, 24);
             this.cbGeneroa.TabIndex = 12;
+            this.cbGeneroa.Text = "Beste bat";
             // 
             // btnGrafUpdate
             // 
             this.btnGrafUpdate.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btnGrafUpdate.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGrafUpdate.Location = new System.Drawing.Point(475, 222);
+            this.btnGrafUpdate.Location = new System.Drawing.Point(474, 194);
             this.btnGrafUpdate.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnGrafUpdate.Name = "btnGrafUpdate";
             this.btnGrafUpdate.Size = new System.Drawing.Size(151, 58);
@@ -231,18 +234,12 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel1.Controls.Add(new System.Windows.Forms.Label() { Text = "Izena", Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold), TextAlign = System.Drawing.ContentAlignment.MiddleCenter }, 0, 0);
-            this.tableLayoutPanel1.Controls.Add(new System.Windows.Forms.Label() { Text = "Abizena", Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold), TextAlign = System.Drawing.ContentAlignment.MiddleCenter }, 1, 0);
-            this.tableLayoutPanel1.Controls.Add(new System.Windows.Forms.Label() { Text = "Telefonoa", Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold), TextAlign = System.Drawing.ContentAlignment.MiddleCenter }, 2, 0);
-            this.tableLayoutPanel1.Controls.Add(new System.Windows.Forms.Label() { Text = "Generoa", Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold), TextAlign = System.Drawing.ContentAlignment.MiddleCenter }, 3, 0);
-            this.tableLayoutPanel1.Controls.Add(new System.Windows.Forms.Label() { Text = "Prefijoa", Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold), TextAlign = System.Drawing.ContentAlignment.MiddleCenter }, 4, 0);
-
             this.tableLayoutPanel1.Size = new System.Drawing.Size(588, 27);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // agendaGrafikoa1
             // 
-            this.agendaGrafikoa1.Location = new System.Drawing.Point(661, 60);
+            this.agendaGrafikoa1.Location = new System.Drawing.Point(664, 131);
             this.agendaGrafikoa1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.agendaGrafikoa1.Name = "agendaGrafikoa1";
             this.agendaGrafikoa1.Size = new System.Drawing.Size(349, 351);
@@ -253,7 +250,7 @@
             this.panelContenedor.AutoScroll = true;
             this.panelContenedor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panelContenedor.Controls.Add(this.tableLayoutPanel1);
-            this.panelContenedor.Location = new System.Drawing.Point(35, 313);
+            this.panelContenedor.Location = new System.Drawing.Point(36, 354);
             this.panelContenedor.Margin = new System.Windows.Forms.Padding(4);
             this.panelContenedor.Name = "panelContenedor";
             this.panelContenedor.Size = new System.Drawing.Size(590, 147);
@@ -273,24 +270,20 @@
             this.generoaDataGridViewTextBoxColumn,
             this.prefijoaDataGridViewTextBoxColumn});
             this.dataGridView1.DataSource = this.kontaktuaBindingSource;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.InactiveBorder;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.RoyalBlue;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle1;
-            this.dataGridView1.Location = new System.Drawing.Point(192, 496);
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.RoyalBlue;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle4;
+            this.dataGridView1.Location = new System.Drawing.Point(36, 508);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.Size = new System.Drawing.Size(678, 150);
             this.dataGridView1.TabIndex = 17;
-            // 
-            // kontaktuaBindingSource
-            // 
-            this.kontaktuaBindingSource.DataSource = typeof(Agenda.Kontaktua);
             // 
             // izenaDataGridViewTextBoxColumn
             // 
@@ -332,12 +325,37 @@
             this.prefijoaDataGridViewTextBoxColumn.Name = "prefijoaDataGridViewTextBoxColumn";
             this.prefijoaDataGridViewTextBoxColumn.Width = 75;
             // 
+            // kontaktuaBindingSource
+            // 
+            this.kontaktuaBindingSource.DataSource = typeof(Agenda.Kontaktua);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(32, 308);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(216, 31);
+            this.label6.TabIndex = 18;
+            this.label6.Text = "Telefonoz bilatu:";
+            // 
+            // tbTelfBilatu
+            // 
+            this.tbTelfBilatu.BackColor = System.Drawing.SystemColors.Menu;
+            this.tbTelfBilatu.Location = new System.Drawing.Point(210, 312);
+            this.tbTelfBilatu.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbTelfBilatu.Name = "tbTelfBilatu";
+            this.tbTelfBilatu.Size = new System.Drawing.Size(209, 22);
+            this.tbTelfBilatu.TabIndex = 19;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1039, 670);
+            this.Controls.Add(this.tbTelfBilatu);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.agendaGrafikoa1);
             this.Controls.Add(this.panelContenedor);
@@ -393,6 +411,8 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn telefonoaDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn generoaDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn prefijoaDataGridViewTextBoxColumn;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox tbTelfBilatu;
     }
 }
 
