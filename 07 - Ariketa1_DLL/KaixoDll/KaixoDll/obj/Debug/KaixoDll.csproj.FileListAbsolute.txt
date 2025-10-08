@@ -1,0 +1,6 @@
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoDll\KaixoDll\bin\Debug\KaixoDll.dll
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoDll\KaixoDll\bin\Debug\KaixoDll.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoDll\KaixoDll\obj\Debug\KaixoDll.csproj.AssemblyReference.cache
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoDll\KaixoDll\obj\Debug\KaixoDll.csproj.CoreCompileInputs.cache
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoDll\KaixoDll\obj\Debug\KaixoDll.dll
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoDll\KaixoDll\obj\Debug\KaixoDll.pdb

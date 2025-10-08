@@ -1,0 +1,16 @@
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\bin\Debug\net8.0-windows\Gehigarria-1.exe
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\bin\Debug\net8.0-windows\Gehigarria-1.deps.json
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\bin\Debug\net8.0-windows\Gehigarria-1.runtimeconfig.json
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\bin\Debug\net8.0-windows\Gehigarria-1.dll
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\bin\Debug\net8.0-windows\Gehigarria-1.pdb
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\obj\Debug\net8.0-windows\Gehigarria_1.Form1.resources
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\obj\Debug\net8.0-windows\Gehigarria-1.csproj.GenerateResource.cache
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\obj\Debug\net8.0-windows\Gehigarria-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\obj\Debug\net8.0-windows\Gehigarria-1.AssemblyInfoInputs.cache
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\obj\Debug\net8.0-windows\Gehigarria-1.AssemblyInfo.cs
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\obj\Debug\net8.0-windows\Gehigarria-1.csproj.CoreCompileInputs.cache
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\obj\Debug\net8.0-windows\Gehigarria-1.dll
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\obj\Debug\net8.0-windows\refint\Gehigarria-1.dll
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\obj\Debug\net8.0-windows\Gehigarria-1.pdb
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\obj\Debug\net8.0-windows\Gehigarria-1.genruntimeconfig.cache
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Gehigarria-1\Gehigarria-1\obj\Debug\net8.0-windows\ref\Gehigarria-1.dll

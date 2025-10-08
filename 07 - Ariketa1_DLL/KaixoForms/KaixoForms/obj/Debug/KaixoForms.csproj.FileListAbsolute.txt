@@ -1,0 +1,27 @@
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe.config
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\bin\Debug\KaixoForms.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\bin\Debug\KaixoDll.dll
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\bin\Debug\KaixoDll.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.AssemblyReference.cache
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Form1.resources
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Properties.Resources.resources
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.GenerateResource.cache
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.CoreCompileInputs.cache
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.Up2Date
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.exe
+D:\GitHub\DAM-2\Interfazeen garapena\KaixoForms\KaixoForms\obj\Debug\KaixoForms.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe.config
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\bin\Debug\KaixoForms.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\bin\Debug\KaixoDll.dll
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\bin\Debug\KaixoDll.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.AssemblyReference.cache
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\obj\Debug\KaixoForms.exe.config
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Form1.resources
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Properties.Resources.resources
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.GenerateResource.cache
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.CoreCompileInputs.cache
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.Up2Date
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\obj\Debug\KaixoForms.exe
+D:\GitHub\DAM-2\Interfazeen garapena\07 - Ariketa1_DLL\KaixoForms\KaixoForms\obj\Debug\KaixoForms.pdb

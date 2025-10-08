@@ -1,0 +1,16 @@
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\bin\Debug\net8.0-windows\Ariketa2_Formula_V1.exe
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\bin\Debug\net8.0-windows\Ariketa2_Formula_V1.deps.json
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\bin\Debug\net8.0-windows\Ariketa2_Formula_V1.runtimeconfig.json
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\bin\Debug\net8.0-windows\Ariketa2_Formula_V1.dll
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\bin\Debug\net8.0-windows\Ariketa2_Formula_V1.pdb
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\obj\Debug\net8.0-windows\Ariketa2_Formula_V1.Form1.resources
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\obj\Debug\net8.0-windows\Ariketa2_Formula_V1.csproj.GenerateResource.cache
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\obj\Debug\net8.0-windows\Ariketa2_Formula_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\obj\Debug\net8.0-windows\Ariketa2_Formula_V1.AssemblyInfoInputs.cache
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\obj\Debug\net8.0-windows\Ariketa2_Formula_V1.AssemblyInfo.cs
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\obj\Debug\net8.0-windows\Ariketa2_Formula_V1.csproj.CoreCompileInputs.cache
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\obj\Debug\net8.0-windows\Ariketa2_Formula_V1.dll
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\obj\Debug\net8.0-windows\refint\Ariketa2_Formula_V1.dll
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\obj\Debug\net8.0-windows\Ariketa2_Formula_V1.pdb
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\obj\Debug\net8.0-windows\Ariketa2_Formula_V1.genruntimeconfig.cache
+C:\Users\ainhi\Desktop\Klaserako\DAM-2\Interfazeen Garapena\Ariketa2_Formula_V1\Ariketa2_Formula_V1\obj\Debug\net8.0-windows\ref\Ariketa2_Formula_V1.dll

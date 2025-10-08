@@ -1,0 +1,34 @@
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\bin\Debug\net8.0-windows\HerentzienAriketa.exe
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\bin\Debug\net8.0-windows\HerentzienAriketa.deps.json
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\bin\Debug\net8.0-windows\HerentzienAriketa.runtimeconfig.json
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\bin\Debug\net8.0-windows\HerentzienAriketa.dll
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\bin\Debug\net8.0-windows\HerentzienAriketa.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.Form1.resources
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.csproj.GenerateResource.cache
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.AssemblyInfoInputs.cache
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.AssemblyInfo.cs
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.csproj.CoreCompileInputs.cache
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.sourcelink.json
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.dll
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\refint\HerentzienAriketa.dll
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.genruntimeconfig.cache
+D:\GitHub\DAM-2\Interfazeen garapena\HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\ref\HerentzienAriketa.dll
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\bin\Debug\net8.0-windows\HerentzienAriketa.exe
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\bin\Debug\net8.0-windows\HerentzienAriketa.deps.json
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\bin\Debug\net8.0-windows\HerentzienAriketa.runtimeconfig.json
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\bin\Debug\net8.0-windows\HerentzienAriketa.dll
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\bin\Debug\net8.0-windows\HerentzienAriketa.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.Form1.resources
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.csproj.GenerateResource.cache
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.AssemblyInfoInputs.cache
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.AssemblyInfo.cs
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.csproj.CoreCompileInputs.cache
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.sourcelink.json
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.dll
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\refint\HerentzienAriketa.dll
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\HerentzienAriketa.genruntimeconfig.cache
+D:\GitHub\DAM-2\Interfazeen garapena\10 - HerentzienAriketa\HerentzienAriketa\obj\Debug\net8.0-windows\ref\HerentzienAriketa.dll

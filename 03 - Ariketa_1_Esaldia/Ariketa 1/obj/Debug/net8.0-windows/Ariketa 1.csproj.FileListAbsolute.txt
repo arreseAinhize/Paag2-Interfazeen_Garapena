@@ -1,0 +1,17 @@
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\bin\Debug\net8.0-windows\Ariketa 1.exe
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\bin\Debug\net8.0-windows\Ariketa 1.deps.json
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\bin\Debug\net8.0-windows\Ariketa 1.runtimeconfig.json
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\bin\Debug\net8.0-windows\Ariketa 1.dll
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\bin\Debug\net8.0-windows\Ariketa 1.pdb
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\obj\Debug\net8.0-windows\Ariketa_1.Form1.resources
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\obj\Debug\net8.0-windows\Ariketa 1.csproj.GenerateResource.cache
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\obj\Debug\net8.0-windows\Ariketa 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\obj\Debug\net8.0-windows\Ariketa 1.AssemblyInfoInputs.cache
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\obj\Debug\net8.0-windows\Ariketa 1.AssemblyInfo.cs
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\obj\Debug\net8.0-windows\Ariketa 1.csproj.CoreCompileInputs.cache
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\obj\Debug\net8.0-windows\Ariketa 1.sourcelink.json
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\obj\Debug\net8.0-windows\Ariketa 1.dll
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\obj\Debug\net8.0-windows\refint\Ariketa 1.dll
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\obj\Debug\net8.0-windows\Ariketa 1.pdb
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\obj\Debug\net8.0-windows\Ariketa 1.genruntimeconfig.cache
+C:\Users\ainhi\source\repos\arreseAinhize\DAM-2\Interfazeen garapena\Ariketa 1\Ariketa 1\obj\Debug\net8.0-windows\ref\Ariketa 1.dll

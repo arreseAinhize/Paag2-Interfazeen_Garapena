@@ -1,0 +1,16 @@
+D:\GitHub\DAM-2\Interfazeen garapena\Agenda\Agenda\bin\Debug\Agenda.dll
+D:\GitHub\DAM-2\Interfazeen garapena\Agenda\Agenda\bin\Debug\Agenda.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\Agenda\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+D:\GitHub\DAM-2\Interfazeen garapena\Agenda\Agenda\obj\Debug\Agenda.Agenda.resources
+D:\GitHub\DAM-2\Interfazeen garapena\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+D:\GitHub\DAM-2\Interfazeen garapena\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+D:\GitHub\DAM-2\Interfazeen garapena\Agenda\Agenda\obj\Debug\Agenda.dll
+D:\GitHub\DAM-2\Interfazeen garapena\Agenda\Agenda\obj\Debug\Agenda.pdb
+D:\priv-reposi\DAM-2\Interfazeen garapena\11 - Agenda_Ariketa\Agenda\Agenda\bin\Debug\Agenda.dll
+D:\priv-reposi\DAM-2\Interfazeen garapena\11 - Agenda_Ariketa\Agenda\Agenda\bin\Debug\Agenda.pdb
+D:\priv-reposi\DAM-2\Interfazeen garapena\11 - Agenda_Ariketa\Agenda\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+D:\priv-reposi\DAM-2\Interfazeen garapena\11 - Agenda_Ariketa\Agenda\Agenda\obj\Debug\Agenda.Agenda.resources
+D:\priv-reposi\DAM-2\Interfazeen garapena\11 - Agenda_Ariketa\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+D:\priv-reposi\DAM-2\Interfazeen garapena\11 - Agenda_Ariketa\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+D:\priv-reposi\DAM-2\Interfazeen garapena\11 - Agenda_Ariketa\Agenda\Agenda\obj\Debug\Agenda.dll
+D:\priv-reposi\DAM-2\Interfazeen garapena\11 - Agenda_Ariketa\Agenda\Agenda\obj\Debug\Agenda.pdb

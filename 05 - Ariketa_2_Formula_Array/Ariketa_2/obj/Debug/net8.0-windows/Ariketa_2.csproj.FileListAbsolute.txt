@@ -1,0 +1,34 @@
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\bin\Debug\net8.0-windows\Ariketa_2.exe
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\bin\Debug\net8.0-windows\Ariketa_2.deps.json
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\bin\Debug\net8.0-windows\Ariketa_2.runtimeconfig.json
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\bin\Debug\net8.0-windows\Ariketa_2.dll
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\bin\Debug\net8.0-windows\Ariketa_2.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.Form1.resources
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.csproj.GenerateResource.cache
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.AssemblyInfoInputs.cache
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.AssemblyInfo.cs
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.csproj.CoreCompileInputs.cache
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.sourcelink.json
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.dll
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\obj\Debug\net8.0-windows\refint\Ariketa_2.dll
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.pdb
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.genruntimeconfig.cache
+D:\GitHub\DAM-2\Interfazeen garapena\Ariketa_2\Ariketa_2\obj\Debug\net8.0-windows\ref\Ariketa_2.dll
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\bin\Debug\net8.0-windows\Ariketa_2.exe
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\bin\Debug\net8.0-windows\Ariketa_2.deps.json
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\bin\Debug\net8.0-windows\Ariketa_2.runtimeconfig.json
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\bin\Debug\net8.0-windows\Ariketa_2.dll
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\bin\Debug\net8.0-windows\Ariketa_2.pdb
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.Form1.resources
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.csproj.GenerateResource.cache
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.AssemblyInfoInputs.cache
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.AssemblyInfo.cs
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.csproj.CoreCompileInputs.cache
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.sourcelink.json
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.dll
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\obj\Debug\net8.0-windows\refint\Ariketa_2.dll
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.pdb
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\obj\Debug\net8.0-windows\Ariketa_2.genruntimeconfig.cache
+C:\Users\ainhi\Documents\GitHub\DAM-2\Interfazeen garapena\05 - Ariketa_2_Formula_V2\Ariketa_2\obj\Debug\net8.0-windows\ref\Ariketa_2.dll

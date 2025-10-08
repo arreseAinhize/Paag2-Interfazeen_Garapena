@@ -1,0 +1,16 @@
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\bin\Debug\net8.0-windows\KaixoMundua.exe
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\bin\Debug\net8.0-windows\KaixoMundua.deps.json
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\bin\Debug\net8.0-windows\KaixoMundua.runtimeconfig.json
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\bin\Debug\net8.0-windows\KaixoMundua.dll
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\bin\Debug\net8.0-windows\KaixoMundua.pdb
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\obj\Debug\net8.0-windows\KaixoMundua.Form1.resources
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\obj\Debug\net8.0-windows\KaixoMundua.csproj.GenerateResource.cache
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\obj\Debug\net8.0-windows\KaixoMundua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\obj\Debug\net8.0-windows\KaixoMundua.AssemblyInfoInputs.cache
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\obj\Debug\net8.0-windows\KaixoMundua.AssemblyInfo.cs
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\obj\Debug\net8.0-windows\KaixoMundua.csproj.CoreCompileInputs.cache
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\obj\Debug\net8.0-windows\KaixoMundua.dll
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\obj\Debug\net8.0-windows\refint\KaixoMundua.dll
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\obj\Debug\net8.0-windows\KaixoMundua.pdb
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\obj\Debug\net8.0-windows\KaixoMundua.genruntimeconfig.cache
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\KaixoMundua\KaixoMundua\obj\Debug\net8.0-windows\ref\KaixoMundua.dll

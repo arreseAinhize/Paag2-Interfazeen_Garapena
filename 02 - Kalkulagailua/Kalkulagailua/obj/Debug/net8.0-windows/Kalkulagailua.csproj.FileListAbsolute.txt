@@ -1,0 +1,16 @@
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\bin\Debug\net8.0-windows\Kalkulagailua.exe
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\bin\Debug\net8.0-windows\Kalkulagailua.deps.json
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\bin\Debug\net8.0-windows\Kalkulagailua.runtimeconfig.json
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\bin\Debug\net8.0-windows\Kalkulagailua.dll
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\bin\Debug\net8.0-windows\Kalkulagailua.pdb
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\obj\Debug\net8.0-windows\Kalkulagailua.Form1.resources
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\obj\Debug\net8.0-windows\Kalkulagailua.csproj.GenerateResource.cache
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\obj\Debug\net8.0-windows\Kalkulagailua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\obj\Debug\net8.0-windows\Kalkulagailua.AssemblyInfoInputs.cache
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\obj\Debug\net8.0-windows\Kalkulagailua.AssemblyInfo.cs
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\obj\Debug\net8.0-windows\Kalkulagailua.csproj.CoreCompileInputs.cache
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\obj\Debug\net8.0-windows\Kalkulagailua.dll
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\obj\Debug\net8.0-windows\refint\Kalkulagailua.dll
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\obj\Debug\net8.0-windows\Kalkulagailua.pdb
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\obj\Debug\net8.0-windows\Kalkulagailua.genruntimeconfig.cache
+C:\Users\ainhi\Desktop\DAM 2\Interfazeen garapena\Kalkulagailua\Kalkulagailua\obj\Debug\net8.0-windows\ref\Kalkulagailua.dll
