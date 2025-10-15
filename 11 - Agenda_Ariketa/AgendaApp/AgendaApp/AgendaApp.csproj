@@ -39,6 +39,9 @@
     <Reference Include="AgendaGrafikoa">
       <HintPath>..\..\AgendaGrafikoa\AgendaGrafikoa\bin\Debug\AgendaGrafikoa.dll</HintPath>
     </Reference>
+    <Reference Include="AgendaGrafikoBarra">
+      <HintPath>..\..\AgendaGrafikoBarra\AgendaGrafikoBarra\bin\Debug\AgendaGrafikoBarra.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Windows.Forms.DataVisualization" />

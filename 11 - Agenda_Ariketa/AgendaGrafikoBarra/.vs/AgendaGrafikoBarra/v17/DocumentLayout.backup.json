@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\11 - Agenda_Ariketa\\AgendaGrafikoBarra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{082674DD-66B7-4600-8A6A-2C1121ACFA39}|AgendaGrafikoBarra\\AgendaGrafikoBarra.csproj|D:\\GitHub\\Paag2-Interfazeen_Garapena\\11 - Agenda_Ariketa\\AgendaGrafikoBarra\\agendagrafikobarra\\agendagrafikoabarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{082674DD-66B7-4600-8A6A-2C1121ACFA39}|AgendaGrafikoBarra\\AgendaGrafikoBarra.csproj|solutionrelative:agendagrafikobarra\\agendagrafikoabarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082674DD-66B7-4600-8A6A-2C1121ACFA39}|AgendaGrafikoBarra\\AgendaGrafikoBarra.csproj|D:\\GitHub\\Paag2-Interfazeen_Garapena\\11 - Agenda_Ariketa\\AgendaGrafikoBarra\\agendagrafikobarra\\agendagrafikoabarra.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082674DD-66B7-4600-8A6A-2C1121ACFA39}|AgendaGrafikoBarra\\AgendaGrafikoBarra.csproj|solutionrelative:agendagrafikobarra\\agendagrafikoabarra.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082674DD-66B7-4600-8A6A-2C1121ACFA39}|AgendaGrafikoBarra\\AgendaGrafikoBarra.csproj|d:\\github\\paag2-interfazeen_garapena\\11 - agenda_ariketa\\agendagrafikobarra\\agendagrafikobarra\\agendagrafikoabarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082674DD-66B7-4600-8A6A-2C1121ACFA39}|AgendaGrafikoBarra\\AgendaGrafikoBarra.csproj|solutionrelative:agendagrafikobarra\\agendagrafikoabarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgendaGrafikoaBarra.Designer.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\11 - Agenda_Ariketa\\AgendaGrafikoBarra\\AgendaGrafikoBarra\\AgendaGrafikoaBarra.Designer.cs",
+              "RelativeDocumentMoniker": "AgendaGrafikoBarra\\AgendaGrafikoaBarra.Designer.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\11 - Agenda_Ariketa\\AgendaGrafikoBarra\\AgendaGrafikoBarra\\AgendaGrafikoaBarra.Designer.cs",
+              "RelativeToolTip": "AgendaGrafikoBarra\\AgendaGrafikoaBarra.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAC0AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T08:22:57.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgendaGrafikoaBarra.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\11 - Agenda_Ariketa\\AgendaGrafikoBarra\\AgendaGrafikoBarra\\AgendaGrafikoaBarra.cs",
+              "RelativeDocumentMoniker": "AgendaGrafikoBarra\\AgendaGrafikoaBarra.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\11 - Agenda_Ariketa\\AgendaGrafikoBarra\\AgendaGrafikoBarra\\AgendaGrafikoaBarra.cs",
+              "RelativeToolTip": "AgendaGrafikoBarra\\AgendaGrafikoaBarra.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T08:21:13.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgendaGrafikoaBarra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\11 - Agenda_Ariketa\\AgendaGrafikoBarra\\AgendaGrafikoBarra\\AgendaGrafikoaBarra.cs",
+              "RelativeDocumentMoniker": "AgendaGrafikoBarra\\AgendaGrafikoaBarra.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\11 - Agenda_Ariketa\\AgendaGrafikoBarra\\AgendaGrafikoBarra\\AgendaGrafikoaBarra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AgendaGrafikoBarra\\AgendaGrafikoaBarra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T08:20:07.141Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

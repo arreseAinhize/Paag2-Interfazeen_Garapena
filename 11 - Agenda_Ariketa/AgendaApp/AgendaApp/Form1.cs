@@ -14,10 +14,12 @@ namespace AgendaApp
 {
     public partial class Form1 : Form
     {
+        List<Kontaktua> kontbilatua = new List<Kontaktua>();
         public Form1()
         {
             InitializeComponent();
             agendaGrafikoa1.Marraztu(Kontaktua.kontaktuak);
+            agendaGrafikoaBarra1.MarraztuPrefi(Kontaktua.kontaktuak);
             dataGridView1.DataSource = Kontaktua.kontaktuakBistaratu();
         }
 
@@ -37,29 +39,10 @@ namespace AgendaApp
         }
 
         private void btnIkusi_Click(object sender, EventArgs e)
-        {
-            taulaGarbitu();
-            foreach (var kontakt in Kontaktua.kontaktuakBistaratu())
-            {
-                int rowIndex = tableLayoutPanel1.RowCount;
-                tableLayoutPanel1.RowCount++;
-                tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Absolute, 25f)); // Altura fija para filas de datos
-
-                // Agregar controles a cada celda
-                tableLayoutPanel1.Controls.Add(new Label { Text = kontakt.izena }, 0, rowIndex);
-                tableLayoutPanel1.Controls.Add(new Label { Text = kontakt.abizena }, 1, rowIndex);
-                tableLayoutPanel1.Controls.Add(new Label { Text = kontakt.telefonoa.ToString() }, 2, rowIndex);
-                tableLayoutPanel1.Controls.Add(new Label { Text = kontakt.generoa }, 3, rowIndex);
-                tableLayoutPanel1.Controls.Add(new Label { Text = "+"+kontakt.prefijoa.ToString() }, 4, rowIndex);
-            }
-            // Ajustar la altura del panel contenedor para mostrar exactamente 3 filas + encabezado
-            if (panelContenedor != null)
-            {
-                panelContenedor.Height = (3 * 25) + 30 + 4; // 3 filas de datos + encabezado + bordes
-            }
-        
+        {        
             dataGridView1.DataSource = null;
             dataGridView1.DataSource = Kontaktua.kontaktuakBistaratu();
+            Console.WriteLine(dataGridView1.DataSource);
         }
 
         private void btnBilatu_Click(object sender, EventArgs e)
@@ -77,48 +60,15 @@ namespace AgendaApp
             else
             {
                 Kontaktua kontBilatu = Kontaktua.KontaktuaBilatu(int.Parse(tbTelfBilatu.Text));// Kontaktu bat itzultzen du.
-                taulaGarbitu();
-                tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Absolute, 25f));
-                tableLayoutPanel1.Controls.Add(new Label { Text = kontBilatu.izena }, 0, 1);
-                tableLayoutPanel1.Controls.Add(new Label { Text = kontBilatu.abizena }, 1, 1);
-                tableLayoutPanel1.Controls.Add(new Label { Text = kontBilatu.telefonoa.ToString() }, 2, 1);
-                tableLayoutPanel1.Controls.Add(new Label { Text = kontBilatu.generoa }, 3, 1);
-                tableLayoutPanel1.Controls.Add(new Label { Text = "+" + kontBilatu.prefijoa.ToString() }, 4, 1);
+                kontbilatua.Add(kontBilatu);
+                dataGridView1.DataSource = kontbilatua;
             }
         }
 
         private void btnGrafUpdate_Click(object sender, EventArgs e)
         {
             agendaGrafikoa1.Marraztu(Kontaktua.kontaktuak);
-        }
-
-        private void taulaGarbitu()
-        {
-            // Lehen lerroa mantendu (izenburuak)
-            tableLayoutPanel1.RowCount = 1;
-
-            // Kontrol guztiak garbitu eta ezabatu
-            List<Control> controlesAEliminar = new List<Control>();
-
-            foreach (Control control in tableLayoutPanel1.Controls)
-            {
-                int fila = tableLayoutPanel1.GetRow(control);
-                if (fila >= 1) // Lehen filan edo gorago badago datuak
-                {
-                    controlesAEliminar.Add(control);
-                }
-            }
-
-            // datuen kontrolak ezabatu eta errekurtsoak askatu
-            foreach (Control control in controlesAEliminar)
-            {
-                tableLayoutPanel1.Controls.Remove(control);
-                control.Dispose(); // Errekurtzoak askatu
-            }
-
-            // Filen estiloak garbitu eta lehen lerroa berriro gehitu
-            tableLayoutPanel1.RowStyles.Clear();
-            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Absolute, 30f)); // (Izenburuak)
+            agendaGrafikoaBarra1.MarraztuPrefi(Kontaktua.kontaktuak);
         }
     }
 }

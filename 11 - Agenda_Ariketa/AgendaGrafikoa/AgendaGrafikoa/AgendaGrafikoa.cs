@@ -12,7 +12,7 @@ using Agenda;
 
 namespace AgendaGrafikoa
 {
-    public partial class AgendaGrafikoa: UserControl
+    public partial class AgendaGrafikoa : UserControl
     {
         public AgendaGrafikoa()
         {
@@ -21,28 +21,27 @@ namespace AgendaGrafikoa
 
         public void Marraztu(List<Kontaktua> kontaktuak)
         {
-            grafikoa.Series.Clear();
+            // Limpiar los puntos existentes antes de volver a dibujar
+            grafikoa.Series[0].Points.Clear();
 
-            var serie = new Series("GeneroarenArabera");
-            serie.ChartType = SeriesChartType.Doughnut; 
-            serie.LegendText = "#VALX";
-            serie.Label = "#PERCENT{P1}";
+            grafikoa.Series[0].LegendText = "#VALX";
+            grafikoa.Series[0].Label = "#PERCENT{P1}";
 
             // Configurar el título del Legend
-            grafikoa.Legends[0].Title = "GENEROAK"; 
+            grafikoa.Legends[0].Title = "GENEROAK";
             grafikoa.Legends[0].TitleFont = new Font("Arial", 10, FontStyle.Bold);
             grafikoa.Legends[0].TitleAlignment = StringAlignment.Center;
 
             // Agrupar contactos por género
             var taldekatuta = kontaktuak
                 .GroupBy(k => k.generoa)
-                .Select(g => new { Generoa = g.Key, Kopurua = g.Count() });
+                .Select(g => new { Generoa = g.Key, Kopurua = g.Count() })
+                .ToList();
 
             foreach (var item in taldekatuta)
             {
-                serie.Points.AddXY(item.Generoa, item.Kopurua);
+                grafikoa.Series[0].Points.AddXY(item.Generoa, item.Kopurua);
             }
-            grafikoa.Series.Add(serie);
         }
     }
 }

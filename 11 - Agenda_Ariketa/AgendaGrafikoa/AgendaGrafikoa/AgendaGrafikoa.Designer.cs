@@ -54,12 +54,12 @@
             this.grafikoa.TabIndex = 0;
             this.grafikoa.Text = "chart1";
             // 
-            // UserControl1
+            // AgendaGrafikoa
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.grafikoa);
-            this.Name = "UserControl1";
+            this.Name = "AgendaGrafikoa";
             this.Size = new System.Drawing.Size(349, 351);
             ((System.ComponentModel.ISupportInitialize)(this.grafikoa)).EndInit();
             this.ResumeLayout(false);

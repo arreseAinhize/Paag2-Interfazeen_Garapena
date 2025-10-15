@@ -28,3 +28,14 @@ D:\GitHub\DAM-2\Interfazeen garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGr
 D:\GitHub\DAM-2\Interfazeen garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\obj\Debug\AgendaGr.303E8D1D.Up2Date
 D:\GitHub\DAM-2\Interfazeen garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\obj\Debug\AgendaGrafikoa.dll
 D:\GitHub\DAM-2\Interfazeen garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\obj\Debug\AgendaGrafikoa.pdb
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\bin\Debug\AgendaGrafikoa.dll
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\bin\Debug\AgendaGrafikoa.pdb
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\bin\Debug\Agenda.dll
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\bin\Debug\Agenda.pdb
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\obj\Debug\AgendaGrafikoa.csproj.AssemblyReference.cache
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\obj\Debug\AgendaGrafikoa.AgendaGrafikoa.resources
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\obj\Debug\AgendaGrafikoa.csproj.GenerateResource.cache
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\obj\Debug\AgendaGrafikoa.csproj.CoreCompileInputs.cache
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\obj\Debug\AgendaGr.303E8D1D.Up2Date
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\obj\Debug\AgendaGrafikoa.dll
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoa\AgendaGrafikoa\obj\Debug\AgendaGrafikoa.pdb

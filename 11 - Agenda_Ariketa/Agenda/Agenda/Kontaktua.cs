@@ -34,7 +34,9 @@ namespace Agenda
             new Kontaktua("Jon", "Garcia", 123456789, "Mutila", 34),
             new Kontaktua("Maria", "Lopez", 987654321, "Neska", 34),
             new Kontaktua("Luis", "Martinez", 456789123, "Non-binary", 34),
-            new Kontaktua("Ana", "Gonzalez", 789123456, "Beste bat", 34)
+            new Kontaktua("Ana", "Gonzalez", 789123456, "Beste bat", 34),
+            new Kontaktua("Anebalos", "Gonzalez", 123654785, "Beste bat", 22),
+            new Kontaktua("Pepito", "Grillo", 256398741, "Beste bat", 22)
         };
 
 

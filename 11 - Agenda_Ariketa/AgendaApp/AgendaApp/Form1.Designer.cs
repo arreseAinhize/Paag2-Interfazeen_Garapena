@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.btnGehitu = new System.Windows.Forms.Button();
             this.btnIkusi = new System.Windows.Forms.Button();
             this.btnBilatu = new System.Windows.Forms.Button();
@@ -44,19 +44,17 @@
             this.tbPrefijoa = new System.Windows.Forms.TextBox();
             this.cbGeneroa = new System.Windows.Forms.ComboBox();
             this.btnGrafUpdate = new System.Windows.Forms.Button();
-            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.agendaGrafikoa1 = new AgendaGrafikoa.AgendaGrafikoa();
-            this.panelContenedor = new System.Windows.Forms.Panel();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.label6 = new System.Windows.Forms.Label();
+            this.tbTelfBilatu = new System.Windows.Forms.TextBox();
+            this.agendaGrafikoa1 = new AgendaGrafikoa.AgendaGrafikoa();
             this.izenaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.abizenaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.telefonoaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.generoaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.prefijoaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.kontaktuaBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.label6 = new System.Windows.Forms.Label();
-            this.tbTelfBilatu = new System.Windows.Forms.TextBox();
-            this.panelContenedor.SuspendLayout();
+            this.agendaGrafikoaBarra1 = new AgendaGrafikoBarra.AgendaGrafikoaBarra();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.kontaktuaBindingSource)).BeginInit();
             this.SuspendLayout();
@@ -215,47 +213,6 @@
             this.btnGrafUpdate.UseVisualStyleBackColor = false;
             this.btnGrafUpdate.Click += new System.EventHandler(this.btnGrafUpdate_Click);
             // 
-            // tableLayoutPanel1
-            // 
-            this.tableLayoutPanel1.AutoSize = true;
-            this.tableLayoutPanel1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.tableLayoutPanel1.CellBorderStyle = System.Windows.Forms.TableLayoutPanelCellBorderStyle.Outset;
-            this.tableLayoutPanel1.ColumnCount = 5;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
-            this.tableLayoutPanel1.RowCount = 1;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(588, 27);
-            this.tableLayoutPanel1.TabIndex = 0;
-            // 
-            // agendaGrafikoa1
-            // 
-            this.agendaGrafikoa1.Location = new System.Drawing.Point(664, 131);
-            this.agendaGrafikoa1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.agendaGrafikoa1.Name = "agendaGrafikoa1";
-            this.agendaGrafikoa1.Size = new System.Drawing.Size(349, 351);
-            this.agendaGrafikoa1.TabIndex = 15;
-            // 
-            // panelContenedor
-            // 
-            this.panelContenedor.AutoScroll = true;
-            this.panelContenedor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panelContenedor.Controls.Add(this.tableLayoutPanel1);
-            this.panelContenedor.Location = new System.Drawing.Point(36, 354);
-            this.panelContenedor.Margin = new System.Windows.Forms.Padding(4);
-            this.panelContenedor.Name = "panelContenedor";
-            this.panelContenedor.Size = new System.Drawing.Size(590, 147);
-            this.panelContenedor.TabIndex = 16;
-            // 
             // dataGridView1
             // 
             this.dataGridView1.AutoGenerateColumns = false;
@@ -270,20 +227,47 @@
             this.generoaDataGridViewTextBoxColumn,
             this.prefijoaDataGridViewTextBoxColumn});
             this.dataGridView1.DataSource = this.kontaktuaBindingSource;
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.InactiveBorder;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.RoyalBlue;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle4;
-            this.dataGridView1.Location = new System.Drawing.Point(36, 508);
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.RoyalBlue;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle1;
+            this.dataGridView1.Location = new System.Drawing.Point(34, 354);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(678, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(637, 150);
             this.dataGridView1.TabIndex = 17;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(32, 308);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(173, 25);
+            this.label6.TabIndex = 18;
+            this.label6.Text = "Telefonoz bilatu:";
+            // 
+            // tbTelfBilatu
+            // 
+            this.tbTelfBilatu.BackColor = System.Drawing.SystemColors.Menu;
+            this.tbTelfBilatu.Location = new System.Drawing.Point(210, 312);
+            this.tbTelfBilatu.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbTelfBilatu.Name = "tbTelfBilatu";
+            this.tbTelfBilatu.Size = new System.Drawing.Size(209, 22);
+            this.tbTelfBilatu.TabIndex = 19;
+            // 
+            // agendaGrafikoa1
+            // 
+            this.agendaGrafikoa1.Location = new System.Drawing.Point(633, 32);
+            this.agendaGrafikoa1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.agendaGrafikoa1.Name = "agendaGrafikoa1";
+            this.agendaGrafikoa1.Size = new System.Drawing.Size(394, 253);
+            this.agendaGrafikoa1.TabIndex = 15;
             // 
             // izenaDataGridViewTextBoxColumn
             // 
@@ -329,24 +313,12 @@
             // 
             this.kontaktuaBindingSource.DataSource = typeof(Agenda.Kontaktua);
             // 
-            // label6
+            // agendaGrafikoaBarra1
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(32, 308);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(216, 31);
-            this.label6.TabIndex = 18;
-            this.label6.Text = "Telefonoz bilatu:";
-            // 
-            // tbTelfBilatu
-            // 
-            this.tbTelfBilatu.BackColor = System.Drawing.SystemColors.Menu;
-            this.tbTelfBilatu.Location = new System.Drawing.Point(210, 312);
-            this.tbTelfBilatu.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tbTelfBilatu.Name = "tbTelfBilatu";
-            this.tbTelfBilatu.Size = new System.Drawing.Size(209, 22);
-            this.tbTelfBilatu.TabIndex = 19;
+            this.agendaGrafikoaBarra1.Location = new System.Drawing.Point(677, 354);
+            this.agendaGrafikoaBarra1.Name = "agendaGrafikoaBarra1";
+            this.agendaGrafikoaBarra1.Size = new System.Drawing.Size(335, 304);
+            this.agendaGrafikoaBarra1.TabIndex = 20;
             // 
             // Form1
             // 
@@ -354,11 +326,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1039, 670);
+            this.Controls.Add(this.agendaGrafikoaBarra1);
             this.Controls.Add(this.tbTelfBilatu);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.agendaGrafikoa1);
-            this.Controls.Add(this.panelContenedor);
             this.Controls.Add(this.btnGrafUpdate);
             this.Controls.Add(this.cbGeneroa);
             this.Controls.Add(this.tbPrefijoa);
@@ -376,8 +348,6 @@
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.panelContenedor.ResumeLayout(false);
-            this.panelContenedor.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.kontaktuaBindingSource)).EndInit();
             this.ResumeLayout(false);
@@ -402,8 +372,6 @@
         private System.Windows.Forms.ComboBox cbGeneroa;
         private System.Windows.Forms.Button btnGrafUpdate;
         private AgendaGrafikoa.AgendaGrafikoa agendaGrafikoa1;
-        public System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
-        private System.Windows.Forms.Panel panelContenedor;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.BindingSource kontaktuaBindingSource;
         private System.Windows.Forms.DataGridViewTextBoxColumn izenaDataGridViewTextBoxColumn;
@@ -413,6 +381,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn prefijoaDataGridViewTextBoxColumn;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox tbTelfBilatu;
+        private AgendaGrafikoBarra.AgendaGrafikoaBarra agendaGrafikoaBarra1;
     }
 }
 

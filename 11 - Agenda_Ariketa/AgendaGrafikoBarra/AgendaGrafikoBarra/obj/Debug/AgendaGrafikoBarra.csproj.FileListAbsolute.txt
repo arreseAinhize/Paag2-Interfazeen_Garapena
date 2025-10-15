@@ -1,0 +1,11 @@
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoBarra\AgendaGrafikoBarra\bin\Debug\AgendaGrafikoBarra.dll
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoBarra\AgendaGrafikoBarra\bin\Debug\AgendaGrafikoBarra.pdb
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoBarra\AgendaGrafikoBarra\bin\Debug\Agenda.dll
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoBarra\AgendaGrafikoBarra\bin\Debug\Agenda.pdb
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoBarra\AgendaGrafikoBarra\obj\Debug\AgendaGrafikoBarra.csproj.AssemblyReference.cache
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoBarra\AgendaGrafikoBarra\obj\Debug\AgendaGrafikoBarra.AgendaGrafikoaBarra.resources
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoBarra\AgendaGrafikoBarra\obj\Debug\AgendaGrafikoBarra.csproj.GenerateResource.cache
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoBarra\AgendaGrafikoBarra\obj\Debug\AgendaGrafikoBarra.csproj.CoreCompileInputs.cache
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoBarra\AgendaGrafikoBarra\obj\Debug\AgendaGr.FE3427CB.Up2Date
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoBarra\AgendaGrafikoBarra\obj\Debug\AgendaGrafikoBarra.dll
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaGrafikoBarra\AgendaGrafikoBarra\obj\Debug\AgendaGrafikoBarra.pdb

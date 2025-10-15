@@ -46,3 +46,5 @@ D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaApp\AgendaApp\obj
 D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaApp\AgendaApp\obj\Debug\AgendaApp.csproj.Up2Date
 D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaApp\AgendaApp\obj\Debug\AgendaApp.exe
 D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaApp\AgendaApp\obj\Debug\AgendaApp.pdb
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaApp\AgendaApp\bin\Debug\AgendaGrafikoBarra.dll
+D:\GitHub\Paag2-Interfazeen_Garapena\11 - Agenda_Ariketa\AgendaApp\AgendaApp\bin\Debug\AgendaGrafikoBarra.pdb
