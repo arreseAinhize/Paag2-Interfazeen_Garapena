@@ -1,0 +1,12 @@
+C:\Users\ainhi\Desktop\Erronkarako_Probak\ErronkarakoProbaMainApp\ErronkarakoProbaMainApp\bin\Debug\ErronkarakoProbaMainApp.exe.config
+C:\Users\ainhi\Desktop\Erronkarako_Probak\ErronkarakoProbaMainApp\ErronkarakoProbaMainApp\bin\Debug\ErronkarakoProbaMainApp.exe
+C:\Users\ainhi\Desktop\Erronkarako_Probak\ErronkarakoProbaMainApp\ErronkarakoProbaMainApp\bin\Debug\ErronkarakoProbaMainApp.pdb
+C:\Users\ainhi\Desktop\Erronkarako_Probak\ErronkarakoProbaMainApp\ErronkarakoProbaMainApp\obj\Debug\ErronkarakoProbaMainApp.csproj.AssemblyReference.cache
+C:\Users\ainhi\Desktop\Erronkarako_Probak\ErronkarakoProbaMainApp\ErronkarakoProbaMainApp\obj\Debug\ErronkarakoProbaMainApp.Form1.resources
+C:\Users\ainhi\Desktop\Erronkarako_Probak\ErronkarakoProbaMainApp\ErronkarakoProbaMainApp\obj\Debug\ErronkarakoProbaMainApp.Properties.Resources.resources
+C:\Users\ainhi\Desktop\Erronkarako_Probak\ErronkarakoProbaMainApp\ErronkarakoProbaMainApp\obj\Debug\ErronkarakoProbaMainApp.csproj.GenerateResource.cache
+C:\Users\ainhi\Desktop\Erronkarako_Probak\ErronkarakoProbaMainApp\ErronkarakoProbaMainApp\obj\Debug\ErronkarakoProbaMainApp.csproj.CoreCompileInputs.cache
+C:\Users\ainhi\Desktop\Erronkarako_Probak\ErronkarakoProbaMainApp\ErronkarakoProbaMainApp\obj\Debug\ErronkarakoProbaMainApp.exe
+C:\Users\ainhi\Desktop\Erronkarako_Probak\ErronkarakoProbaMainApp\ErronkarakoProbaMainApp\obj\Debug\ErronkarakoProbaMainApp.pdb
+C:\Users\ainhi\Desktop\Erronkarako_Probak\ErronkarakoProbaMainApp\ErronkarakoProbaMainApp\obj\Debug\ErronkarakoProbaMainApp.exe.config
+C:\Users\ainhi\Desktop\Erronkarako_Probak\ErronkarakoProbaMainApp\ErronkarakoProbaMainApp\obj\Debug\ErronkarakoProbaMainApp.Bezeroak.resources
