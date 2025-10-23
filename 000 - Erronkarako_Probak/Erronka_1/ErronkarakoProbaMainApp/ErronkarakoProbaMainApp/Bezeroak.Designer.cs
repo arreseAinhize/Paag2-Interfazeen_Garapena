@@ -71,6 +71,7 @@ namespace ErronkarakoProbaMainApp
             // btnBack
             // 
             this.btnBack.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(93)))), ((int)(((byte)(137)))));
+            this.btnBack.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnBack.Font = new System.Drawing.Font("Cambria", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBack.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(251)))), ((int)(((byte)(253)))));
             this.btnBack.Location = new System.Drawing.Point(10, 13);
@@ -83,6 +84,7 @@ namespace ErronkarakoProbaMainApp
             // btnIrabaziak
             // 
             this.btnIrabaziak.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(93)))), ((int)(((byte)(137)))));
+            this.btnIrabaziak.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnIrabaziak.Font = new System.Drawing.Font("Cambria", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIrabaziak.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(251)))), ((int)(((byte)(253)))));
             this.btnIrabaziak.Location = new System.Drawing.Point(344, 13);
@@ -95,6 +97,7 @@ namespace ErronkarakoProbaMainApp
             // btnGastuak
             // 
             this.btnGastuak.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(93)))), ((int)(((byte)(137)))));
+            this.btnGastuak.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnGastuak.Font = new System.Drawing.Font("Cambria", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGastuak.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(251)))), ((int)(((byte)(253)))));
             this.btnGastuak.Location = new System.Drawing.Point(213, 13);
@@ -107,6 +110,7 @@ namespace ErronkarakoProbaMainApp
             // btnProduk
             // 
             this.btnProduk.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(93)))), ((int)(((byte)(137)))));
+            this.btnProduk.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnProduk.Font = new System.Drawing.Font("Cambria", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnProduk.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(251)))), ((int)(((byte)(253)))));
             this.btnProduk.Location = new System.Drawing.Point(84, 13);
