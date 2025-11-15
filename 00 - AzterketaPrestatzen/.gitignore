@@ -1,5 +1,4 @@
 # Build results
-bin/
 obj/
 [Bb]in/
 [Oo]bj/
@@ -136,10 +135,6 @@ Thumbs.db
 *.gmo
 *.msg
 *.cat
-
-# DLLs de terceros y dependencias que SÍ ignorar
-bin/**/*.dll
-obj/**/*.dll
 
 # Backup files
 *~

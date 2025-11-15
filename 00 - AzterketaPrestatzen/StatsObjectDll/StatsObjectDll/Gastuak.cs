@@ -33,6 +33,7 @@ namespace StatsObjectDll
 
         public static List<Gastuak> gastuak { get; set; } = new List<Gastuak>
         {
+
             new Gastuak(2025, 1, 35.90m),
             new Gastuak(2025, 2, 19.95m),
             new Gastuak(2025, 3, 12.00m)
