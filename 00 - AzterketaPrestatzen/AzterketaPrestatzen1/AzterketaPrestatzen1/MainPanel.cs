@@ -15,171 +15,133 @@ namespace AzterketaPrestatzen1
         public MainPanel()
         {
             InitializeComponent();
+            logoTxikia.Enabled = false;
         }
 
-        //If the button is disabled, change it's color to Gray and the text color tu Black
-        public void disableButton()
+        // Botoien kolorea aldatu egoeraren arabera (Enable/Disable)
+        public void UpdateButtonColors()
         {
-            if (btnRatingSystem.Enabled == false)
+            List<Button> botoia = new List<Button>()
             {
-                btnRatingSystem.BackColor = Color.Gray;
-                btnRatingSystem.ForeColor = Color.Black;
-            }
-            else if (btnFavoriteReading.Enabled == false)
+                btnRatingSystem,
+                btnFavoriteReading,
+                btnReadingLog,
+                btnReadingPixel,
+                btnReadingStats,
+                btnWishList
+            };
+
+            foreach (Button btn in botoia)
             {
-                btnFavoriteReading.BackColor = Color.Gray;
-                btnFavoriteReading.ForeColor = Color.Black;
-            }
-            else if (btnReadingLog.Enabled == false)
-            {
-                btnReadingLog.BackColor = Color.Gray;
-                btnReadingLog.ForeColor = Color.Black;
-            }
-            else if (btnReadingPixel.Enabled == false)
-            {
-                btnReadingPixel.BackColor = Color.Gray;
-                btnReadingPixel.ForeColor = Color.Black;
-            }
-            else if (btnReadingStats.Enabled == false)
-            {
-                btnReadingStats.BackColor = Color.Gray;
-                btnReadingStats.ForeColor = Color.Black;
-            }
-            else if (btnWishList.Enabled == false)
-            {
-                btnWishList.BackColor = Color.Gray;
-                btnWishList.ForeColor = Color.Black;
+                if (!btn.Enabled)
+                {
+                    btn.BackColor = Color.Gray;
+                    btn.ForeColor = Color.Black;
+                }
+                else
+                {
+                    btn.BackColor = Color.PaleTurquoise;
+                    btn.ForeColor = Color.Teal;
+                }
             }
         }
 
-        //If the button is enabled, change it's color to Pale Turquoise and the text color tu Teal
-        public void enableButton()
-        {
-            if (btnRatingSystem.Enabled == true)
-            {
-                btnRatingSystem.BackColor = Color.PaleTurquoise;
-                btnRatingSystem.ForeColor = Color.Teal;
-            }
-            else if (btnFavoriteReading.Enabled == true)
-            {
-                btnFavoriteReading.BackColor = Color.PaleTurquoise;
-                btnFavoriteReading.ForeColor = Color.Teal;
-            }
-            else if (btnReadingLog.Enabled == true)
-            {
-                btnReadingLog.BackColor = Color.PaleTurquoise;
-                btnReadingLog.ForeColor = Color.Teal;
-            }
-            else if (btnReadingPixel.Enabled == true)
-            {
-                btnReadingPixel.BackColor = Color.PaleTurquoise;
-                btnReadingPixel.ForeColor = Color.Teal;
-            }
-            else if (btnReadingStats.Enabled == true)
-            {
-                btnReadingStats.BackColor = Color.PaleTurquoise;
-                btnReadingStats.ForeColor = Color.Teal;
-            }
-            else if (btnWishList.Enabled == true)
-            {
-                btnWishList.BackColor = Color.PaleTurquoise;
-                btnWishList.ForeColor = Color.Teal;
-            }
-        }
 
-        //Clear all the controls in the ContentPanel
+        // Paneleko control gustiak ezabatu
         public void CleanContentPanel()
         {
             ContentPanel.Controls.Clear();
         }
 
-        //Open the corresponding UserControl in the ContentPanel
-        private void OpenPanelContent(UserControl userControlHijo)
+        // Tokatzen den UserController-a zabaldu panel printzipalean
+        private void OpenPanelContent(UserControl userControl)
         {
+            logoTxikia.Enabled = true;
+
             if (ContentPanel.Controls.Count > 0)
                 ContentPanel.Controls.RemoveAt(0);
 
-            userControlHijo.Dock = DockStyle.Fill;
+            userControl.Dock = DockStyle.Fill;
 
-            ContentPanel.Controls.Add(userControlHijo);
-            ContentPanel.Tag = userControlHijo;
+            ContentPanel.Controls.Add(userControl);
+            ContentPanel.Tag = userControl;
         }
 
         private void btnRatingSystem_Click(object sender, EventArgs e)
         {
+            CleanContentPanel();
             btnRatingSystem.Enabled = false;
-            disableButton();
             btnReadingPixel.Enabled = true;
             btnFavoriteReading.Enabled = true;
             btnReadingLog.Enabled = true;
             btnReadingStats.Enabled = true;
             btnWishList.Enabled = true;
-            enableButton();
+            UpdateButtonColors();
             OpenPanelContent(new RatingSystem());
         }
 
         private void btnReadingLog_Click(object sender, EventArgs e)
         {
+            CleanContentPanel();
             btnReadingLog.Enabled = false;
-            disableButton();
             btnReadingPixel.Enabled = true;
             btnRatingSystem.Enabled = true;
             btnFavoriteReading.Enabled = true;
             btnReadingStats.Enabled = true;
             btnWishList.Enabled = true;
-            enableButton();
+            UpdateButtonColors();
             OpenPanelContent(new ReadingLog());
         }
 
         private void btnWishList_Click(object sender, EventArgs e)
         {
+            CleanContentPanel();
             btnWishList.Enabled = false;
-            disableButton();
             btnReadingPixel.Enabled = true;
             btnRatingSystem.Enabled = true;
             btnFavoriteReading.Enabled = true;
             btnReadingLog.Enabled = true;
             btnReadingStats.Enabled = true;
-            enableButton();
+            UpdateButtonColors();
             OpenPanelContent(new WishList());
         }
 
         private void btnReadingStats_Click(object sender, EventArgs e)
         {
+            CleanContentPanel();
             btnReadingStats.Enabled = false;
-            disableButton();
             btnReadingPixel.Enabled = true;
             btnRatingSystem.Enabled = true;
             btnFavoriteReading.Enabled = true;
             btnReadingLog.Enabled = true;
             btnWishList.Enabled = true;
-            enableButton();
+            UpdateButtonColors();
             OpenPanelContent(new ReadingStats());
         }
 
         private void btnReadingPixel_Click(object sender, EventArgs e)
         {
+            CleanContentPanel();
             btnReadingPixel.Enabled = false;
-            disableButton();
             btnRatingSystem.Enabled = true;
             btnFavoriteReading.Enabled = true;
             btnReadingLog.Enabled = true;
             btnReadingStats.Enabled = true;
             btnWishList.Enabled = true;
-            enableButton();
+            UpdateButtonColors();
             OpenPanelContent(new ReadingPixel());
         }
 
         private void btnFavoriteReading_Click(object sender, EventArgs e)
         {
+            CleanContentPanel();
             btnFavoriteReading.Enabled = false;
-            disableButton();
             btnReadingPixel.Enabled = true;
             btnRatingSystem.Enabled = true;
             btnReadingLog.Enabled = true;
             btnReadingStats.Enabled = true;
             btnWishList.Enabled = true;
-            enableButton();
+            UpdateButtonColors();
             OpenPanelContent(new FavoriteReading());
         }
     }

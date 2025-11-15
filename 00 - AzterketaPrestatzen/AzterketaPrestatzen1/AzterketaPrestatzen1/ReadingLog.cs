@@ -18,11 +18,5 @@ namespace AzterketaPrestatzen1
 
         }
 
-        void changeButtonColor()
-        {
-            var main = (MainPanel)Application.OpenForms["MainPanel"];
-            main.enableButton();
-            main.disableButton();
-        }
     }
 }

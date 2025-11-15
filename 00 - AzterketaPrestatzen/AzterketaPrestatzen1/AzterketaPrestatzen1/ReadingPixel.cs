@@ -17,13 +17,7 @@ namespace AzterketaPrestatzen1
             InitializeComponent();
 
         }
-        void changeButtonColor()
-        {
-            var main = (MainPanel)Application.OpenForms["MainPanel"];
-            main.enableButton();
-            main.disableButton();
-        }
-
+        
         private void ReadingPixel_Load(object sender, EventArgs e)
         {
             tableData.ColumnCount = 12;
