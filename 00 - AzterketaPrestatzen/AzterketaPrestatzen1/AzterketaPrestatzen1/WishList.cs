@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AzterketaPrestatzen1.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,7 @@ namespace AzterketaPrestatzen1
         public WishList()
         {
             InitializeComponent();
+            dataWhishList.DataSource = BookJournalDbContext.GetWishList();
         }
         
     }

@@ -45,6 +45,9 @@
     <Compile Include="Gastuak.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Puntuak.cs" />
+    <Compile Include="RatingSystemValues.cs" />
+    <Compile Include="ReadingBookLog.cs" />
+    <Compile Include="WhishListBook.cs" />
     <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

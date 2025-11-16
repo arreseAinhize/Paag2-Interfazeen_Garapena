@@ -14,12 +14,12 @@ namespace AzterketaPrestatzen1
 {
     public partial class ReadingStats : UserControl
     {
-                Puntuak puntuak = new Puntuak(56, 32, 12, 3, 45);
         public ReadingStats()
         {
             InitializeComponent();
-            gastuDirua1.Grafikoa_Marraztu(BookJournalDbContext.GetGastuak());
-            puntuazioBanaketa1.Grafikoa_Marraztu(puntuak);
+            gastuDirua1.Grafikoa_Marraztu(BookJournalDbContext.GetGastuak()); //GrafikoLinealera datuak bidaltzen
+            puntuazioBanaketa1.Grafikoa_Marraztu(BookJournalDbContext.GetPuntuak());
+            totPag.Text = BookJournalDbContext.GetTotalPages().ToString();
         }
     }
 }

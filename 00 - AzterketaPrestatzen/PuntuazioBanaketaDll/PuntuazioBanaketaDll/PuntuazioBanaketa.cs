@@ -20,39 +20,53 @@ namespace PuntuazioBanaketaDll
         }
         public void Grafikoa_Marraztu(Puntuak puntua)
         {
+            // Categorías (⭐1 .. ⭐5)
             string[] legenda = { "⭐1", "⭐2", "⭐3", "⭐4", "⭐5" };
-            var serie = grafikoa1.Series[0];
-            serie.Points.Clear();
-            serie["PyramidLabelStyle"] = "Inside";
-            serie.SmartLabelStyle.Enabled = true;
-            var balioak = puntua.AsList();
 
-            for (int i = 0; i < balioak.Count; i++)
+            // Obtener la serie pirámide (Series[0] o por nombre "Series1")
+            Series serie = grafikoa1.Series.Count > 0
+                ? grafikoa1.Series[0]
+                : grafikoa1.Series.Add("Series1");
+
+            // Configuración obligatoria para pirámide
+            serie.ChartType = SeriesChartType.Pyramid;
+            serie.Points.Clear();
+            serie["PyramidLabelStyle"] = "Inside";   // texto dentro
+            serie.SmartLabelStyle.Enabled = true;
+
+            // Lista de valores
+            List<int> balioak = puntua.AsList();
+
+            // Evitar excepciones por tamaños distintos
+            int count = Math.Min(legenda.Length, balioak.Count);
+
+            for (int i = 0; i < count; i++)
             {
                 int y = balioak[i];
 
-                // Añadir el valor y obtener el índice del punto
-                int index = serie.Points.AddY(y);
+                // Añadir punto y obtener índice
+                int idx = serie.Points.AddY(y);
+                DataPoint p = serie.Points[idx];
 
-                // Acceder al punto por índice
-                var punto = serie.Points[index];
+                // Mostrar valor y porcentaje
+                p.Label = "#VAL (#PERCENT{P0})";
 
-                // Etiqueta con valor y porcentaje
-                punto.Label = "#VAL (#PERCENT{P0})";
+                // Nombre de categoría (⭐1..⭐5)
+                p.LegendText = legenda[i];
 
-                // Etiqueta lateral con categoría
-                punto.LegendText = legenda[i]; 
+                // Color negro para el texto
+                p.LabelForeColor = Color.Black;
 
-                // Color del texto
-                punto.LabelForeColor = Color.Black;
+                // Opcional: tamaño de fuente
+                p.Font = new Font("Segoe UI", 9, FontStyle.Bold);
             }
 
-
-
-            grafikoa1.Invalidate(); // Redibujar
+            grafikoa1.Invalidate();  // Redibujar
         }
 
     }
+
+}
 
 }
 

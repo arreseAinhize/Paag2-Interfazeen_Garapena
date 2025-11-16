@@ -180,6 +180,10 @@
       <DependentUpon>WishList.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
+    <None Include="Properties\DataSources\StatsObjectDll.Gastuak.datasource" />
+    <None Include="Properties\DataSources\StatsObjectDll.Puntuak.datasource" />
+    <None Include="Properties\DataSources\StatsObjectDll.ReadingBookLog.datasource" />
+    <None Include="Properties\DataSources\StatsObjectDll.WhishListBook.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AzterketaPrestatzen1.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,7 +16,7 @@ namespace AzterketaPrestatzen1
         public ReadingLog()
         {
             InitializeComponent();
-
+            dataReadingLog.DataSource = BookJournalDbContext.GetReadingLog();
         }
 
     }

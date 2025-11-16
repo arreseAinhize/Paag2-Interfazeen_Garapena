@@ -8,11 +8,11 @@ namespace StatsObjectDll
 {
     public partial class Puntuak
     {
-        int star1;
-        int star2;
-        int star3;
-        int star4;
-        int star5;
+        int star1 { get; set; }
+        int star2 { get; set; }
+        int star3 { get; set; }
+        int star4 { get; set; }
+        int star5 { get; set; }
         public Puntuak() { }
 
         public Puntuak(int star1, int star2, int star3, int star4, int star5)
