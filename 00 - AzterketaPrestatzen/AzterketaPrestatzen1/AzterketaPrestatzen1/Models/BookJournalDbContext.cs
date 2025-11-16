@@ -39,6 +39,36 @@ namespace AzterketaPrestatzen1.Models
             }
         }
 
+        // Datu baseko tauletako bat eguneratu, aginte koadrotik datuak pasatuz
+        public static void UpdateRatingSystem(RatingSystemValues newValues)
+        {
+            try
+            {
+                using (var db = new BookJournalDbContext())
+                {
+                    var sql = @"
+                        UPDATE RatingValur
+                        SET 
+                            star_1 = @p0,
+                            star_2 = @p1,
+                            star_3 = @p2,
+                            star_4 = @p3,
+                            star_5 = @p4
+                    ";
+                    db.Database.ExecuteSqlCommand(sql,
+                        newValues.star1,
+                        newValues.star2,
+                        newValues.star3,
+                        newValues.star4,
+                        newValues.star5);
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Errorea gertatu da: " + ex);
+            }
+        }
+
         // Reading Log-ek erabiltzen dituen DbSet-ak hemen definiatu
         public static List<ReadingBookLog> GetReadingLog()
         {

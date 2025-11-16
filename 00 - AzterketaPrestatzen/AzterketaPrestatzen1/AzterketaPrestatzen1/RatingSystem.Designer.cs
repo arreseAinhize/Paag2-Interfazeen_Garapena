@@ -56,9 +56,9 @@
             this.panel1.Controls.Add(this.tbStar1);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Location = new System.Drawing.Point(1, 1);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(716, 554);
+            this.panel1.Size = new System.Drawing.Size(955, 682);
             this.panel1.TabIndex = 0;
             // 
             // btnSave
@@ -66,91 +66,92 @@
             this.btnSave.BackColor = System.Drawing.Color.Teal;
             this.btnSave.Font = new System.Drawing.Font("Palatino Linotype", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSave.ForeColor = System.Drawing.Color.White;
-            this.btnSave.Location = new System.Drawing.Point(388, 433);
-            this.btnSave.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnSave.Location = new System.Drawing.Point(517, 533);
+            this.btnSave.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(178, 71);
+            this.btnSave.Size = new System.Drawing.Size(237, 87);
             this.btnSave.TabIndex = 13;
             this.btnSave.Text = "Balioak gorde";
             this.btnSave.UseVisualStyleBackColor = false;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // btnUpdate
             // 
             this.btnUpdate.BackColor = System.Drawing.Color.Teal;
             this.btnUpdate.Font = new System.Drawing.Font("Palatino Linotype", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUpdate.ForeColor = System.Drawing.Color.White;
-            this.btnUpdate.Location = new System.Drawing.Point(87, 433);
-            this.btnUpdate.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnUpdate.Location = new System.Drawing.Point(116, 533);
+            this.btnUpdate.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(178, 71);
+            this.btnUpdate.Size = new System.Drawing.Size(237, 87);
             this.btnUpdate.TabIndex = 12;
             this.btnUpdate.Text = "Balioak editatu";
             this.btnUpdate.UseVisualStyleBackColor = false;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Palatino Linotype", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Teal;
-            this.label1.Location = new System.Drawing.Point(73, 369);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(97, 454);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(218, 29);
+            this.label1.Size = new System.Drawing.Size(272, 38);
             this.label1.TabIndex = 11;
             this.label1.Text = "Zer egin nahi duzu?";
             // 
             // tbStar5
             // 
-            this.tbStar5.Location = new System.Drawing.Point(326, 296);
-            this.tbStar5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbStar5.Location = new System.Drawing.Point(435, 364);
+            this.tbStar5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbStar5.Multiline = true;
             this.tbStar5.Name = "tbStar5";
-            this.tbStar5.Size = new System.Drawing.Size(309, 34);
+            this.tbStar5.Size = new System.Drawing.Size(411, 41);
             this.tbStar5.TabIndex = 10;
             // 
             // tbStar4
             // 
-            this.tbStar4.Location = new System.Drawing.Point(326, 232);
-            this.tbStar4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbStar4.Location = new System.Drawing.Point(435, 286);
+            this.tbStar4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbStar4.Multiline = true;
             this.tbStar4.Name = "tbStar4";
-            this.tbStar4.Size = new System.Drawing.Size(309, 34);
+            this.tbStar4.Size = new System.Drawing.Size(411, 41);
             this.tbStar4.TabIndex = 9;
             // 
             // tbStar3
             // 
-            this.tbStar3.Location = new System.Drawing.Point(326, 171);
-            this.tbStar3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbStar3.Location = new System.Drawing.Point(435, 210);
+            this.tbStar3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbStar3.Multiline = true;
             this.tbStar3.Name = "tbStar3";
-            this.tbStar3.Size = new System.Drawing.Size(309, 34);
+            this.tbStar3.Size = new System.Drawing.Size(411, 41);
             this.tbStar3.TabIndex = 8;
             // 
             // tbStar2
             // 
-            this.tbStar2.Location = new System.Drawing.Point(326, 114);
-            this.tbStar2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbStar2.Location = new System.Drawing.Point(435, 140);
+            this.tbStar2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbStar2.Multiline = true;
             this.tbStar2.Name = "tbStar2";
-            this.tbStar2.Size = new System.Drawing.Size(309, 34);
+            this.tbStar2.Size = new System.Drawing.Size(411, 41);
             this.tbStar2.TabIndex = 7;
             // 
             // tbStar1
             // 
-            this.tbStar1.Location = new System.Drawing.Point(326, 59);
-            this.tbStar1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbStar1.Location = new System.Drawing.Point(435, 73);
+            this.tbStar1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbStar1.Multiline = true;
             this.tbStar1.Name = "tbStar1";
-            this.tbStar1.Size = new System.Drawing.Size(309, 34);
+            this.tbStar1.Size = new System.Drawing.Size(411, 41);
             this.tbStar1.TabIndex = 6;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::AzterketaPrestatzen1.Properties.Resources.rating;
-            this.pictureBox1.Location = new System.Drawing.Point(2, 2);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Location = new System.Drawing.Point(3, 2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(340, 378);
+            this.pictureBox1.Size = new System.Drawing.Size(453, 465);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
@@ -163,12 +164,12 @@
             // 
             // RatingSystem
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "RatingSystem";
-            this.Size = new System.Drawing.Size(716, 554);
+            this.Size = new System.Drawing.Size(955, 682);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

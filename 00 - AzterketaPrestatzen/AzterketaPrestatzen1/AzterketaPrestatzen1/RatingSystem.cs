@@ -1,4 +1,6 @@
-﻿using System;
+﻿using AzterketaPrestatzen1.Models;
+using StatsObjectDll;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -32,6 +34,33 @@ namespace AzterketaPrestatzen1
             tbStar3.ReadOnly = true;
             tbStar4.ReadOnly = true;
             tbStar5.ReadOnly = true;
+            btnSave.Enabled = false;
+            btnUpdate.Enabled = true;
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            tbStar1.ReadOnly = false;
+            tbStar2.ReadOnly = false;
+            tbStar3.ReadOnly = false;
+            tbStar4.ReadOnly = false;
+            tbStar5.ReadOnly = false;
+            btnSave.Enabled = true;
+            btnUpdate.Enabled = false;
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            RatingSystemValues BalioBerriak = new RatingSystemValues
+            {
+                star1 = tbStar5.Text,
+                star2 = tbStar4.Text,
+                star3 = tbStar3.Text,
+                star4 = tbStar2.Text,
+                star5 = tbStar1.Text
+            };
+            BookJournalDbContext.UpdateRatingSystem(BalioBerriak);
+            RatingSystemBete();
         }
     }
 }
