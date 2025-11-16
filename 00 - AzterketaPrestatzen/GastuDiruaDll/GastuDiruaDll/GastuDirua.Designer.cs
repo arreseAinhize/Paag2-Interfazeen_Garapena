@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.grafikoa1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             ((System.ComponentModel.ISupportInitialize)(this.grafikoa1)).BeginInit();
@@ -42,9 +41,6 @@
             chartArea1.BackColor = System.Drawing.Color.Transparent;
             chartArea1.Name = "ChartArea1";
             this.grafikoa1.ChartAreas.Add(chartArea1);
-            legend1.BorderColor = System.Drawing.Color.Transparent;
-            legend1.Name = "Legend1";
-            this.grafikoa1.Legends.Add(legend1);
             this.grafikoa1.Location = new System.Drawing.Point(3, 3);
             this.grafikoa1.Name = "grafikoa1";
             this.grafikoa1.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.None;
@@ -55,7 +51,6 @@
             series1.ChartArea = "ChartArea1";
             series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
             series1.LabelForeColor = System.Drawing.Color.SteelBlue;
-            series1.Legend = "Legend1";
             series1.Name = "Series1";
             series1.YValuesPerPoint = 4;
             this.grafikoa1.Series.Add(series1);

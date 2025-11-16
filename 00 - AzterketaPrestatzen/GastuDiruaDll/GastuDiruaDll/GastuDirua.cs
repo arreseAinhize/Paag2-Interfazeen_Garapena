@@ -23,23 +23,14 @@ namespace GastuDiruaDll
 
         public void Grafikoa_Marraztu(List<Gastuak> lista)
         {
-            // Limpiar series anteriores
-            grafikoa1.Series.Clear();
-
-            // Crear la serie con tu estilo exacto
-            Series serie = new Series("Gastuak");
-            serie.ChartType = SeriesChartType.Line;
-            serie.BorderWidth = 3;
-            serie.Color = Color.FromArgb(95, 201, 209);
-            serie.ChartArea = "ChartArea1";
-            serie.Legend = "Legend1";
-
-            grafikoa1.Series.Add(serie);
+            grafikoa1.Series[0].BorderWidth = 3;
+            grafikoa1.Series[0].Color = Color.FromArgb(95, 201, 209);
+            grafikoa1.Series[0].ChartArea = "ChartArea1";
 
             // Añadir puntos
             foreach (var g in lista)
             {
-                grafikoa1.Series["Gastuak"].Points.AddXY(
+                grafikoa1.Series[0].Points.AddXY(
                     g.GetMonthLabel(),   // "Ene 2025", "Feb 2025"...
                     g.Prezioa            // valor decimal del gasto
                 );
@@ -49,8 +40,8 @@ namespace GastuDiruaDll
             grafikoa1.ChartAreas["ChartArea1"].AxisX.Interval = 1;
 
             // Hacer la línea suave y bonita (opcional)
-            grafikoa1.Series["Gastuak"].BorderWidth = 4;
-            grafikoa1.Series["Gastuak"].BorderDashStyle = ChartDashStyle.Solid;
+            grafikoa1.Series[0].BorderWidth = 4;
+            grafikoa1.Series[0].BorderDashStyle = ChartDashStyle.Solid;
 
             // Redibujar
             grafikoa1.Invalidate();
