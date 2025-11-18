@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\priv-reposi\\IG-Azterketa\\Ainhize_Arrese-Azterketa\\Ainhize_Arrese-Azterketa\\NutrinfoDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10C351-522C-4D58-B8E6-18D87DBC6CEC}|NutrinfoDLL\\NutrinfoDLL.csproj|d:\\priv-reposi\\ig-azterketa\\ainhize_arrese-azterketa\\ainhize_arrese-azterketa\\nutrinfodll\\nutrinfodll\\nutrinfodll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D10C351-522C-4D58-B8E6-18D87DBC6CEC}|NutrinfoDLL\\NutrinfoDLL.csproj|solutionrelative:nutrinfodll\\nutrinfodll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10C351-522C-4D58-B8E6-18D87DBC6CEC}|NutrinfoDLL\\NutrinfoDLL.csproj|D:\\priv-reposi\\IG-Azterketa\\Ainhize_Arrese-Azterketa\\Ainhize_Arrese-Azterketa\\NutrinfoDLL\\nutrinfodll\\nutrinfodll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10C351-522C-4D58-B8E6-18D87DBC6CEC}|NutrinfoDLL\\NutrinfoDLL.csproj|solutionrelative:nutrinfodll\\nutrinfodll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NutrinfoDLL.cs",
+              "DocumentMoniker": "D:\\priv-reposi\\IG-Azterketa\\Ainhize_Arrese-Azterketa\\Ainhize_Arrese-Azterketa\\NutrinfoDLL\\NutrinfoDLL\\NutrinfoDLL.cs",
+              "RelativeDocumentMoniker": "NutrinfoDLL\\NutrinfoDLL.cs",
+              "ToolTip": "D:\\priv-reposi\\IG-Azterketa\\Ainhize_Arrese-Azterketa\\Ainhize_Arrese-Azterketa\\NutrinfoDLL\\NutrinfoDLL\\NutrinfoDLL.cs",
+              "RelativeToolTip": "NutrinfoDLL\\NutrinfoDLL.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:10:53.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NutrinfoDLL.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\priv-reposi\\IG-Azterketa\\Ainhize_Arrese-Azterketa\\Ainhize_Arrese-Azterketa\\NutrinfoDLL\\NutrinfoDLL\\NutrinfoDLL.cs",
+              "RelativeDocumentMoniker": "NutrinfoDLL\\NutrinfoDLL.cs",
+              "ToolTip": "D:\\priv-reposi\\IG-Azterketa\\Ainhize_Arrese-Azterketa\\Ainhize_Arrese-Azterketa\\NutrinfoDLL\\NutrinfoDLL\\NutrinfoDLL.cs [Dise\u00F1o]",
+              "RelativeToolTip": "NutrinfoDLL\\NutrinfoDLL.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:10:38.519Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

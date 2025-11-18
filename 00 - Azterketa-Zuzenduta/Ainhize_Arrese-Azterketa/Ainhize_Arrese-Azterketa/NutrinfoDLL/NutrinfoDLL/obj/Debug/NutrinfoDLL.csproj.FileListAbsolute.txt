@@ -1,0 +1,18 @@
+C:\Users\ainhi\Desktop\Azterketa ikasleentzat\Azterketa ikasleentzat\NutrinfoDLL\NutrinfoDLL\bin\Debug\NutrinfoDLL.dll
+C:\Users\ainhi\Desktop\Azterketa ikasleentzat\Azterketa ikasleentzat\NutrinfoDLL\NutrinfoDLL\bin\Debug\NutrinfoDLL.pdb
+C:\Users\ainhi\Desktop\Azterketa ikasleentzat\Azterketa ikasleentzat\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.csproj.AssemblyReference.cache
+C:\Users\ainhi\Desktop\Azterketa ikasleentzat\Azterketa ikasleentzat\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.Properties.Resources.resources
+C:\Users\ainhi\Desktop\Azterketa ikasleentzat\Azterketa ikasleentzat\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.NutrinfoDLL.resources
+C:\Users\ainhi\Desktop\Azterketa ikasleentzat\Azterketa ikasleentzat\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.csproj.GenerateResource.cache
+C:\Users\ainhi\Desktop\Azterketa ikasleentzat\Azterketa ikasleentzat\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.csproj.CoreCompileInputs.cache
+C:\Users\ainhi\Desktop\Azterketa ikasleentzat\Azterketa ikasleentzat\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.dll
+C:\Users\ainhi\Desktop\Azterketa ikasleentzat\Azterketa ikasleentzat\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.pdb
+D:\priv-reposi\IG-Azterketa\Ainhize_Arrese-Azterketa\Ainhize_Arrese-Azterketa\NutrinfoDLL\NutrinfoDLL\bin\Debug\NutrinfoDLL.dll
+D:\priv-reposi\IG-Azterketa\Ainhize_Arrese-Azterketa\Ainhize_Arrese-Azterketa\NutrinfoDLL\NutrinfoDLL\bin\Debug\NutrinfoDLL.pdb
+D:\priv-reposi\IG-Azterketa\Ainhize_Arrese-Azterketa\Ainhize_Arrese-Azterketa\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.csproj.AssemblyReference.cache
+D:\priv-reposi\IG-Azterketa\Ainhize_Arrese-Azterketa\Ainhize_Arrese-Azterketa\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.Properties.Resources.resources
+D:\priv-reposi\IG-Azterketa\Ainhize_Arrese-Azterketa\Ainhize_Arrese-Azterketa\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.NutrinfoDLL.resources
+D:\priv-reposi\IG-Azterketa\Ainhize_Arrese-Azterketa\Ainhize_Arrese-Azterketa\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.csproj.GenerateResource.cache
+D:\priv-reposi\IG-Azterketa\Ainhize_Arrese-Azterketa\Ainhize_Arrese-Azterketa\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.csproj.CoreCompileInputs.cache
+D:\priv-reposi\IG-Azterketa\Ainhize_Arrese-Azterketa\Ainhize_Arrese-Azterketa\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.dll
+D:\priv-reposi\IG-Azterketa\Ainhize_Arrese-Azterketa\Ainhize_Arrese-Azterketa\NutrinfoDLL\NutrinfoDLL\obj\Debug\NutrinfoDLL.pdb
