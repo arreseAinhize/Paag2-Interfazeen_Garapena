@@ -1,0 +1,53 @@
+﻿@model IEnumerable<RabaRanking.Models.Jatetxea>
+
+@{
+    ViewData["Title"] = "Jatetxeak";
+}
+
+<h1>Jatetxeen Lista</h1>
+
+<p>
+    <a asp-action="Create">Berria sortu</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Izena)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Herria)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Puntuazioa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pozisioa)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Izena)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Herria)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Puntuazioa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pozisioa)
+            </td>
+            <td>
+                @Html.ActionLink("Editatu", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Xehetasunak", "Details", new { izena = item.Izena }) |
+                @Html.ActionLink("Ezabatu", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

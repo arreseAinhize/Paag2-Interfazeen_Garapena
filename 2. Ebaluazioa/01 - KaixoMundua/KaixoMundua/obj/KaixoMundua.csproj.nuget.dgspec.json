@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ainhi\\Desktop\\Azterketa ikasleentzat\\Azterketa ikasleentzat\\KaixoMundua\\KaixoMundua\\KaixoMundua.csproj": {}
+    "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\01 - KaixoMundua\\KaixoMundua\\KaixoMundua.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ainhi\\Desktop\\Azterketa ikasleentzat\\Azterketa ikasleentzat\\KaixoMundua\\KaixoMundua\\KaixoMundua.csproj": {
+    "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\01 - KaixoMundua\\KaixoMundua\\KaixoMundua.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ainhi\\Desktop\\Azterketa ikasleentzat\\Azterketa ikasleentzat\\KaixoMundua\\KaixoMundua\\KaixoMundua.csproj",
+        "projectUniqueName": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\01 - KaixoMundua\\KaixoMundua\\KaixoMundua.csproj",
         "projectName": "KaixoMundua",
-        "projectPath": "C:\\Users\\ainhi\\Desktop\\Azterketa ikasleentzat\\Azterketa ikasleentzat\\KaixoMundua\\KaixoMundua\\KaixoMundua.csproj",
+        "projectPath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\01 - KaixoMundua\\KaixoMundua\\KaixoMundua.csproj",
         "packagesPath": "C:\\Users\\ainhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ainhi\\Desktop\\Azterketa ikasleentzat\\Azterketa ikasleentzat\\KaixoMundua\\KaixoMundua\\obj\\",
+        "outputPath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\01 - KaixoMundua\\KaixoMundua\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
