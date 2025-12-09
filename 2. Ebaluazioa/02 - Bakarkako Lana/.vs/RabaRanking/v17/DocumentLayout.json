@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\",
+  "WorkspaceRootPath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\rabaranking\\rabaranking\\views\\jatetxeak\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\views\\jatetxeak\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\rabaranking\\rabaranking\\controllers\\jatetxeakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\controllers\\jatetxeakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\rabaranking\\rabaranking\\models\\jatetxea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\02 - bakarkako lana\\rabaranking\\models\\jatetxea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\models\\jatetxea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\rabaranking\\rabaranking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\02 - bakarkako lana\\rabaranking\\views\\jatetxeak\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\views\\jatetxeak\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\02 - bakarkako lana\\rabaranking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\rabaranking\\rabaranking\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\02 - bakarkako lana\\rabaranking\\controllers\\jatetxeakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\controllers\\jatetxeakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\rabaranking\\rabaranking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\rabaranking\\rabaranking\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\rabaranking\\rabaranking\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\02 - bakarkako lana\\rabaranking\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\rabaranking\\rabaranking\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\02 - bakarkako lana\\rabaranking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\02 - bakarkako lana\\rabaranking\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\02 - bakarkako lana\\rabaranking\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\02 - bakarkako lana\\rabaranking\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\rabaranking\\rabaranking\\views\\jatetxeak\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\02 - bakarkako lana\\rabaranking\\views\\jatetxeak\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\views\\jatetxeak\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\rabaranking\\rabaranking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\02 - bakarkako lana\\rabaranking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8BE3B7F-14D7-4848-B23F-1A6D8C1AD55F}|RabaRanking\\RabaRanking.csproj|solutionrelative:rabaranking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -78,11 +78,24 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JatetxeakController.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Controllers\\JatetxeakController.cs",
+              "RelativeDocumentMoniker": "RabaRanking\\Controllers\\JatetxeakController.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Controllers\\JatetxeakController.cs",
+              "RelativeToolTip": "RabaRanking\\Controllers\\JatetxeakController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:11:07.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "RabaRanking\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "RabaRanking\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -91,37 +104,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "RabaRanking\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "RabaRanking\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T12:00:14.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "RabaRanking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "RabaRanking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-02T12:00:12.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "RabaRanking\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "RabaRanking\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -131,36 +131,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JatetxeakController.cs",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Controllers\\JatetxeakController.cs",
-              "RelativeDocumentMoniker": "RabaRanking\\Controllers\\JatetxeakController.cs",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Controllers\\JatetxeakController.cs",
-              "RelativeToolTip": "RabaRanking\\Controllers\\JatetxeakController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T11:11:07.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\Jatetxeak\\Details.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\Jatetxeak\\Details.cshtml",
               "RelativeDocumentMoniker": "RabaRanking\\Views\\Jatetxeak\\Details.cshtml",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\Jatetxeak\\Details.cshtml",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\Jatetxeak\\Details.cshtml",
               "RelativeToolTip": "RabaRanking\\Views\\Jatetxeak\\Details.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-02T11:30:25.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Jatetxea.cs",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Models\\Jatetxea.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Models\\Jatetxea.cs",
               "RelativeDocumentMoniker": "RabaRanking\\Models\\Jatetxea.cs",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Models\\Jatetxea.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Models\\Jatetxea.cs",
               "RelativeToolTip": "RabaRanking\\Models\\Jatetxea.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,24 +156,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "RabaRanking\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "RabaRanking\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T12:00:14.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "RabaRanking\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "RabaRanking\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T12:00:19.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T12:00:19.182Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "favicon.ico - Icon [32x32, 32 bits, BMP]",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\wwwroot\\favicon.ico",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\wwwroot\\favicon.ico",
               "RelativeDocumentMoniker": "RabaRanking\\wwwroot\\favicon.ico",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\wwwroot\\favicon.ico - Icon [32x32, 32 bits, BMP]",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\wwwroot\\favicon.ico - Icon [32x32, 32 bits, BMP]",
               "RelativeToolTip": "RabaRanking\\wwwroot\\favicon.ico - Icon [32x32, 32 bits, BMP]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
               "WhenOpened": "2025-12-02T11:57:23.294Z",
@@ -196,27 +194,25 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "RabaRanking\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "RabaRanking\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T11:38:56.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T11:38:56.954Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\Jatetxeak\\Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\Jatetxeak\\Index.cshtml",
               "RelativeDocumentMoniker": "RabaRanking\\Views\\Jatetxeak\\Index.cshtml",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\Views\\Jatetxeak\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\Views\\Jatetxeak\\Index.cshtml",
               "RelativeToolTip": "RabaRanking\\Views\\Jatetxeak\\Index.cshtml",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAC4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T11:12:55.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T11:12:55.886Z"
             }
           ]
         }

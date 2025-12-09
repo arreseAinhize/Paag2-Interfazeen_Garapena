@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e1VAep6czrI=",
+  "dgSpecHash": "EX1m96jIuEc=",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\RabaRanking.csproj",
+  "projectFilePath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\RabaRanking.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ainhi\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ainhi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

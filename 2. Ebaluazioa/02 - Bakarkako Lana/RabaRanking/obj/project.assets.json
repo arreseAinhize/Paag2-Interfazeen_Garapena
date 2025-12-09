@@ -5572,11 +5572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\RabaRanking.csproj",
+      "projectUniqueName": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\RabaRanking.csproj",
       "projectName": "RabaRanking",
-      "projectPath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\RabaRanking.csproj",
+      "projectPath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\RabaRanking.csproj",
       "packagesPath": "C:\\Users\\ainhi\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\RabaRanking\\RabaRanking\\obj\\",
+      "outputPath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\02 - Bakarkako Lana\\RabaRanking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

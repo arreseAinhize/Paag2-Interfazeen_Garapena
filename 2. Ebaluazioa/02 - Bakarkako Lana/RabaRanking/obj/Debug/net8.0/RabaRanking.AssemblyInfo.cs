@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RabaRanking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33f4832ab044617f1ded4fac3899853a5122e3da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+086c080179d40fbc1f73471eda08822ce2b485ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("RabaRanking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RabaRanking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
