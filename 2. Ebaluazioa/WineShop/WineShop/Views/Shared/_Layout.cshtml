@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/WineShop.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/fontawesome/css/all.min.css" />
 </head>
 <body>
     <header>
@@ -30,12 +31,24 @@
             </div>
         </nav>
     </header>
-    <div class="container">
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="~/images/ardoa.jpg" />
+                </div>
+                <div class="col-md-6">
+                    <form class="form-inline my-lg-0 float-right" id="searchForm">
+                        <input type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-danger my-sm-1" type="submit"><i class="fas fa-search"></i></button>
+                    </form>
+                </div>
+            </div>
+        </div>
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2025 - WineShop - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>

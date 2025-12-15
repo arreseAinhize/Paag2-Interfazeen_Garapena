@@ -1,7 +1,12 @@
+using WineShop.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//Gure zrbitzuak
+builder.Services.AddScoped<IArdoaService, ArdoaService>();
 
 var app = builder.Build();
 

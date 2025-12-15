@@ -1,0 +1,814 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "RESTAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Ardoa": {
+      "get": {
+        "tags": [
+          "Ardoa"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Ardoa"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Ardoa"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Ardoa"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Ardoa/Mota/{id}": {
+      "get": {
+        "tags": [
+          "Ardoa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ArdoaUpeltegiDto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ArdoaUpeltegiDto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ArdoaUpeltegiDto"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Ardoa/{id}": {
+      "get": {
+        "tags": [
+          "Ardoa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Ardoa"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Ardoa"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Ardoa"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/BezeroaEskaera": {
+      "get": {
+        "tags": [
+          "BezeroaEskaera"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BezeroaEskaera"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BezeroaEskaera"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BezeroaEskaera"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "BezeroaEskaera"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BezeroaEskaera"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BezeroaEskaera"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/BezeroaEskaera"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/BezeroaEskaera"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BezeroaEskaera"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BezeroaEskaera"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Erosketa": {
+      "post": {
+        "tags": [
+          "Erosketa"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Erosketa"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Erosketa"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Erosketa"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Erosketa"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Erosketa"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Erosketa"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Eskualdea": {
+      "get": {
+        "tags": [
+          "Eskualdea"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Eskualdea"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Eskualdea"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Eskualdea"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/SaskiaAlea": {
+      "get": {
+        "tags": [
+          "SaskiaAlea"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/SaskiaAlea"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/SaskiaAlea"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/SaskiaAlea"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "SaskiaAlea"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SaskiaAlea"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SaskiaAlea"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/SaskiaAlea"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/SaskiaAlea"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SaskiaAlea"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SaskiaAlea"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/SaskiaAlea/{id}": {
+      "get": {
+        "tags": [
+          "SaskiaAlea"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/SaskiaAlea"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/SaskiaAlea"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/SaskiaAlea"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "SaskiaAlea"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SaskiaAlea"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SaskiaAlea"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/SaskiaAlea"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "SaskiaAlea"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Ardoa": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "izena": {
+            "type": "string",
+            "nullable": true
+          },
+          "salneurria": {
+            "type": "number",
+            "format": "double"
+          },
+          "alkohola": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "edukia": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "urtea": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "irudia": {
+            "type": "string",
+            "nullable": true
+          },
+          "deskribapena": {
+            "type": "string",
+            "nullable": true
+          },
+          "deskontua": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "eskaintza": {
+            "type": "boolean"
+          },
+          "upeltegiaId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "motaId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ArdoaUpeltegiDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "izena": {
+            "type": "string",
+            "nullable": true
+          },
+          "upeltegiIzena": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "BezeroaEskaera": {
+        "required": [
+          "abizena",
+          "helbidea",
+          "herrialdea",
+          "hiria",
+          "izena",
+          "postakodea",
+          "telefonoa"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "izena": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "abizena": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "helbidea": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "hiria": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "herrialdea": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "postakodea": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "telefonoa": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "data": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "erabiltzailea": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Erosketa": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "kantitatea": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ardoaId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "bezeroaEskaeraId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Eskualdea": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "izena": {
+            "type": "string",
+            "nullable": true
+          },
+          "herrialdeaId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "herrialdea": {
+            "$ref": "#/components/schemas/Herrialdea"
+          },
+          "upeltegiak": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Upeltegia"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Herrialdea": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "izena": {
+            "type": "string",
+            "nullable": true
+          },
+          "eskualdeak": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Eskualdea"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "SaskiaAlea": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "saskiaId": {
+            "type": "string",
+            "nullable": true
+          },
+          "kantitatea": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "ardoaId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Upeltegia": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "izena": {
+            "type": "string",
+            "nullable": true
+          },
+          "ardoak": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Ardoa"
+            },
+            "nullable": true
+          },
+          "eskualdeaId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "eskualdea": {
+            "$ref": "#/components/schemas/Eskualdea"
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

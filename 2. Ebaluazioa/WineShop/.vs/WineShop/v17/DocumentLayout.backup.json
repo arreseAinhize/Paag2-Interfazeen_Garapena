@@ -1,7 +1,60 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\views\\shared\\components\\ardoak\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\views\\shared\\components\\ardoak\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\viewcomponents\\ardoakviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\viewcomponents\\ardoakviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\models\\ardoaupeltegi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\models\\ardoaupeltegi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\wineshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\wineshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\helpers\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\helpers\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\models\\ardoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\models\\ardoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\services\\ardoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\services\\ardoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\services\\iardoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\services\\iardoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\wineshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB7F502-2635-42CD-AA2B-DAF6DA1BB4BA}|WineShop\\WineShop.csproj|solutionrelative:wineshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,12 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 221,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -34,6 +83,174 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Helpers\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "WineShop\\Helpers\\ImageHelper.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Helpers\\ImageHelper.cs",
+              "RelativeToolTip": "WineShop\\Helpers\\ImageHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:27:27.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WineShop",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\WineShop.csproj",
+              "RelativeDocumentMoniker": "WineShop\\WineShop.csproj",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\WineShop.csproj",
+              "RelativeToolTip": "WineShop\\WineShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T17:27:01.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WineShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WineShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T09:20:37.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Views\\Shared\\Components\\Ardoak\\Default.cshtml",
+              "RelativeDocumentMoniker": "WineShop\\Views\\Shared\\Components\\Ardoak\\Default.cshtml",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Views\\Shared\\Components\\Ardoak\\Default.cshtml",
+              "RelativeToolTip": "WineShop\\Views\\Shared\\Components\\Ardoak\\Default.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T09:39:33.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArdoakViewComponent.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\ViewComponents\\ArdoakViewComponent.cs",
+              "RelativeDocumentMoniker": "WineShop\\ViewComponents\\ArdoakViewComponent.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\ViewComponents\\ArdoakViewComponent.cs",
+              "RelativeToolTip": "WineShop\\ViewComponents\\ArdoakViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:18:38.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArdoaUpeltegi.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Models\\ArdoaUpeltegi.cs",
+              "RelativeDocumentMoniker": "WineShop\\Models\\ArdoaUpeltegi.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Models\\ArdoaUpeltegi.cs",
+              "RelativeToolTip": "WineShop\\Models\\ArdoaUpeltegi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:13:23.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ardoa.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Models\\Ardoa.cs",
+              "RelativeDocumentMoniker": "WineShop\\Models\\Ardoa.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Models\\Ardoa.cs",
+              "RelativeToolTip": "WineShop\\Models\\Ardoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:43:03.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArdoaService.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Services\\ArdoaService.cs",
+              "RelativeDocumentMoniker": "WineShop\\Services\\ArdoaService.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Services\\ArdoaService.cs",
+              "RelativeToolTip": "WineShop\\Services\\ArdoaService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:24:18.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IArdoaService.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Services\\IArdoaService.cs",
+              "RelativeDocumentMoniker": "WineShop\\Services\\IArdoaService.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Services\\IArdoaService.cs",
+              "RelativeToolTip": "WineShop\\Services\\IArdoaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:20:33.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Program.cs",
+              "RelativeDocumentMoniker": "WineShop\\Program.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Program.cs",
+              "RelativeToolTip": "WineShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:31:15.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WineShop\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WineShop\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-15T10:40:05.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WineShop\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WineShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:47:09.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WineShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\WineShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WineShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T09:56:36.779Z",
+              "EditorCaption": ""
             }
           ]
         }
