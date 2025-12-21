@@ -35,5 +35,20 @@ namespace WineShop.Services
             }
             return ardoaList;
         }
+
+        public async Task<Ardoa> GetArdoa(int id)
+        {
+            Ardoa ardoa = new Ardoa();
+            Uri rutaArdoBat = new Uri(rutaTodos, id.ToString());
+            using (var httpClient = new HttpClient())
+            {
+                using (var response = await httpClient.GetAsync(rutaArdoBat))
+                {
+                    string apiResponse = await response.Content.ReadAsStringAsync();
+                    ardoa = JsonConvert.DeserializeObject<Ardoa>(apiResponse);
+                }
+            }
+            return ardoa;
+        }
     }
 }

@@ -87,3 +87,15 @@ body {
     height: 150px;
     width: auto;
 }
+.altuera {
+    max-height: 100px;
+}
+
+.btn-borgona {
+    background-color: #981212;
+}
+
+    .btn-borgona:hover {
+        background-color: #f2c5c5;
+        color: #FFF;
+    }

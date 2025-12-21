@@ -1,7 +1,7 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-<!-- ARDOEN NAVBAR-A -->
+<!-- NAVBAR -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light bg-menua">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">Home</a>
@@ -14,40 +14,39 @@
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Zuria
                     </a>
-                    <!-- Dropdown meni "dinamikoa" -->
-                    @await Component.InvokeAsync("Ardoak", new { Id = 1 }) 
-                    <!-- Ixena, "conponents" ataleko karpetaren izenarekin bat etorri behar da. -->
+                    @await Component.InvokeAsync("Ardoak", new { id = 1 })
                 </li>
                 <li class="nav-item dropdown full-width">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Beltza
                     </a>
-                    <!-- Dropdown meni "dinamikoa" -->
-                    @await Component.InvokeAsync("Ardoak", new { Id = 2 }) 
-                    <!-- Ixena, "conponents" ataleko karpetaren izenarekin bat etorri behar da. -->
+                    @await Component.InvokeAsync("Ardoak", new { id = 2 })
                 </li>
             </ul>
         </div>
     </div>
 </nav>
-
-<!-- CARRUSELAREN ATALA -->
-<div class="container">
+<!-- CARRUSELA -->
+    <div class="container">
         <div class="row">
             <div class="col-md-9">
                 <h4 class="borgona">
                     Gure Eskaintzak:
                 </h4>
             </div>
-            @* <div class="col-md-3">
+            <div class="col-md-3">
                 <!-- Controls -->
                 <div class="controls pull-right hidden-xs">
-                    <a class="left fa fa-chevron-left btn btn-success" href="#carousel-example"
-                       data-slide="prev"></a>
-                       <a class="right fa fa-chevron-right btn btn-success" href="#carousel-example"
-                                                data-slide="next"></a>
+                    <a class="left btn btn-success"   href="#carousel-example"   data-bs-slide="prev">
+                        <i class="fa fa-chevron-left"></i>
+                    </a>
+
+                    <a class="right btn btn-success"   href="#carousel-example"   data-bs-slide="next">
+                        <i class="fa fa-chevron-right"></i>
+                    </a>
+
                 </div>
-            </div> *@
+            </div>
         </div>
         <div id="carousel-example" class="carousel slide hidden-xs" data-ride="carousel">
             <!-- Wrapper for slides -->
@@ -101,6 +100,18 @@
                                                     <div class="separator clear-left">
                                                         <p class="btn-details">
                                                             <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="d-sm-none d-md-block">Detaile gehiago</a>
+                                                        </p>
+                                                        <!-- 
+                                                            asp-controller == ze kontroladoretara jun bidan
+                                                                adb.: asp-controller="saskia" <-- saskia izena dekon kontroladoea
+                                                            asp-action == ze ekintzara jun bidan
+                                                                adb.: asp-action="SaskiaGehitu" <-- SaskiaGehitu izena dekon ekintza
+                                                            asp-route-id == ze id-rekin jun bidan
+                                                                adb.: asp-route-id="@item.Id" <-- item-en id-a bidan
+                                                        -->
+                                                        <p class="btn-add">
+                                                            <i class="fa fa-shopping-cart"></i>
+                                                            <a asp-controller="Saskia" asp-action="SaskiaGehitu" asp-route-id="@item.Id">Karritora gehitu</a>
                                                         </p>
                                                     </div>
                                                     <div class="clearfix">

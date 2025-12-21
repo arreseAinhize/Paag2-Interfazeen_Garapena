@@ -14,5 +14,6 @@
         public int Deskontua { get; set; }
         public int UpeltegiaId { get; set; }
         public int MotaId { get; set; }
+        public virtual Mota Mota { get; set; }
     }
 }
