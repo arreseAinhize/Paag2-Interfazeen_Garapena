@@ -59,6 +59,51 @@ namespace WineShop.Services
             }
         }
 
+        public async Task SaskiaKendu(int ardoaId, string saskiaId)
+        {
+            //Saskia lortu
+            Uri rutasaskia = new Uri(rutaTodos, saskiaId);
+            List<SaskiaAlea> saskiaAleaList = new List<SaskiaAlea>();
+            // Saskia lortu API deitik 
+            using (var httpClient = new HttpClient())
+            {
+                // Saskia aleak lortu API deitik
+                using (var response = await httpClient.GetAsync(rutasaskia))
+                {
+                    // Read the API response as a string
+                    string apiResponse = await response.Content.ReadAsStringAsync();
+                    saskiaAleaList = JsonConvert.DeserializeObject<List<SaskiaAlea>>(apiResponse);
+                }
+            }
+            // Ardoa bilatu saskian 
+            SaskiaAlea cartitem = saskiaAleaList.FirstOrDefault(s => s.ArdoaId == ardoaId);
+            // Ardoa aurkitu bada 
+            if (cartitem != null)
+            {
+                // Kantitatea 1 baino handiagoa bada, gutxitu kantitatea
+                if (cartitem.Kantitatea > 1)
+                {
+                    // Kantitatea gutxitu eta eguneratu API deian
+                    cartitem.Kantitatea--;
+                    using (var httpClient = new HttpClient())
+                    {
+                        // Eguneratu saskia alea API deian
+                        StringContent content = new StringContent(JsonConvert.SerializeObject(cartitem), Encoding.UTF8, "application/json");
+                        var response = await httpClient.PutAsync(rutasaskia, content);
+                        response.EnsureSuccessStatusCode();
+                    }
+                }
+                else
+                {
+                    // Kantitatea 1 bada, kendu saskiatik
+                    using (var httpClient = new HttpClient())
+                    {
+                        var response = await httpClient.DeleteAsync(new Uri(rutasaskia, ardoaId.ToString()));
+                        response.EnsureSuccessStatusCode();
+                    }
+                }
+            }
+        }
         public async Task<List<SaskiaAlea>> SaskiaLortuAleak(string saskiaId)
         {
             //Saskia lortu

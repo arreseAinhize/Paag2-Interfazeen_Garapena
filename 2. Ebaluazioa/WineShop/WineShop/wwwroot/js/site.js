@@ -23,3 +23,25 @@ $(document).on("click", ".AddLink", function (e) {
         });
     }
 });
+
+
+/*Saskitik kentzeko*/
+$(document).on("click", ".RemoveLink", function (e) {
+    e.preventDefault();
+    var recordToRemove = $(this).attr("data-id");
+    if (recordToRemove !== '') {   
+        $.post("/Saskia/SaskiaKenduAjax", { id: recordToRemove }, function (data) {
+            // Produktuaren kantitatea
+            $("#item-count-" + recordToRemove).text(data.kantitatea);
+            // Subtotala
+            $("#item-subtotal-" + recordToRemove).text(
+                data.lineSubtotal.toLocaleString('eu-ES', { style: 'currency', currency: 'EUR' })
+            );
+            // Saskia guztira
+            $("#cart-total").text(
+                data.guztira.toLocaleString('eu-ES', { style: 'currency', currency: 'EUR' })
+            );
+            $("#update-message").text(data.mezua);
+        });
+    }
+});
