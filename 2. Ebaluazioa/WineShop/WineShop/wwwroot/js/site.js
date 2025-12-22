@@ -28,6 +28,7 @@ $(document).on("click", ".AddLink", function (e) {
 /*Saskitik kentzeko*/
 $(document).on("click", ".RemoveLink", function (e) {
     e.preventDefault();
+    // Id-a lortu data-id atribututik
     var recordToRemove = $(this).attr("data-id");
     if (recordToRemove !== '') {   
         $.post("/Saskia/SaskiaKenduAjax", { id: recordToRemove }, function (data) {
@@ -41,6 +42,7 @@ $(document).on("click", ".RemoveLink", function (e) {
             $("#cart-total").text(
                 data.guztira.toLocaleString('eu-ES', { style: 'currency', currency: 'EUR' })
             );
+            // Mezua eguneratu
             $("#update-message").text(data.mezua);
         });
     }
