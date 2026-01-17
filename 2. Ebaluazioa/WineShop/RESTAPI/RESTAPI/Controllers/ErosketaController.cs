@@ -29,5 +29,12 @@ namespace RESTAPI.Controllers
             await _saskiaAleaService.PostErosketa(erosketa);
             return NoContent();
         }
+
+        [HttpGet]
+        public async Task<ActionResult<List<Erosketa>>> GetErosketak()
+        {
+            return await _saskiaAleaService.GetErosketak();
+
+        }
     }
 }

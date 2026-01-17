@@ -61,5 +61,10 @@ namespace RESTAPI.Services
             _context.Erosketa.Add(erosketa);
             await _context.SaveChangesAsync();
         }
+
+        public async Task<List<Erosketa>> GetErosketak()
+        {
+            return await _context.Erosketa.ToListAsync();
+        }
     }
 }

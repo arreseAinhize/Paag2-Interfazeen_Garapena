@@ -144,6 +144,26 @@
     ]
   },
   {
+    "ContainingType": "RESTAPI.Controllers.ErosketaController",
+    "Method": "GetErosketak",
+    "RelativePath": "api/Erosketa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[RESTAPI.Models.Erosketa, RESTAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "RESTAPI.Controllers.EskualdeaController",
     "Method": "GetEskualdeak",
     "RelativePath": "api/Eskualdea",

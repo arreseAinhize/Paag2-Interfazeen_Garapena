@@ -19,5 +19,7 @@ namespace RESTAPI.Services
         Task<List<BezeroaEskaera>> GetBezeroaEskaerak();
         Task<BezeroaEskaera> PostBezeroaEskaera(BezeroaEskaera bezeroaEskaera);
         Task PostErosketa(Erosketa erosketa);
+
+        Task<List<Erosketa>> GetErosketak();
     }
 }

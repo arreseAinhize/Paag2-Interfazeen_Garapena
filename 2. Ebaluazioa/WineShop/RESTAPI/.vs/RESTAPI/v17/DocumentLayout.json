@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\restapi\\restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|solutionrelative:restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\restapi\\restapi\\services\\iardoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|solutionrelative:restapi\\services\\iardoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\restapi\\restapi\\controllers\\erosketacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|solutionrelative:restapi\\controllers\\erosketacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\restapi\\restapi\\services\\isaskiaaleaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|solutionrelative:restapi\\services\\isaskiaaleaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\restapi\\restapi\\services\\ieskualdeaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|solutionrelative:restapi\\services\\ieskualdeaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\restapi\\restapi\\models\\erosketa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|solutionrelative:restapi\\models\\erosketa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\restapi\\restapi\\controllers\\saskiaaleacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|solutionrelative:restapi\\controllers\\saskiaaleacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\restapi\\restapi\\services\\saskiaaleaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|solutionrelative:restapi\\services\\saskiaaleaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|d:\\github\\paag2-interfazeen_garapena\\2. ebaluazioa\\wineshop\\restapi\\restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD518534-096A-48D1-94FB-E7F57BD05F76}|RESTAPI\\RESTAPI.csproj|solutionrelative:restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 178,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +58,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Erosketa.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Models\\Erosketa.cs",
+              "RelativeDocumentMoniker": "RESTAPI\\Models\\Erosketa.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Models\\Erosketa.cs",
+              "RelativeToolTip": "RESTAPI\\Models\\Erosketa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:14:35.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaskiaAleaController.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Controllers\\SaskiaAleaController.cs",
+              "RelativeDocumentMoniker": "RESTAPI\\Controllers\\SaskiaAleaController.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Controllers\\SaskiaAleaController.cs",
+              "RelativeToolTip": "RESTAPI\\Controllers\\SaskiaAleaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:13:19.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaskiaAleaService.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Services\\SaskiaAleaService.cs",
+              "RelativeDocumentMoniker": "RESTAPI\\Services\\SaskiaAleaService.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Services\\SaskiaAleaService.cs",
+              "RelativeToolTip": "RESTAPI\\Services\\SaskiaAleaService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:10:46.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ErosketaController.cs",
+              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Controllers\\ErosketaController.cs",
+              "RelativeDocumentMoniker": "RESTAPI\\Controllers\\ErosketaController.cs",
+              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Controllers\\ErosketaController.cs",
+              "RelativeToolTip": "RESTAPI\\Controllers\\ErosketaController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:09:58.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "RESTAPI\\Properties\\launchSettings.json",
@@ -63,39 +123,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IEskualdeaService.cs",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Services\\IEskualdeaService.cs",
-              "RelativeDocumentMoniker": "RESTAPI\\Services\\IEskualdeaService.cs",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Services\\IEskualdeaService.cs",
-              "RelativeToolTip": "RESTAPI\\Services\\IEskualdeaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T09:47:46.212Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IArdoaService.cs",
-              "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Services\\IArdoaService.cs",
-              "RelativeDocumentMoniker": "RESTAPI\\Services\\IArdoaService.cs",
-              "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Services\\IArdoaService.cs",
-              "RelativeToolTip": "RESTAPI\\Services\\IArdoaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T09:47:41.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ISaskiaAleaService.cs",
               "DocumentMoniker": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Services\\ISaskiaAleaService.cs",
               "RelativeDocumentMoniker": "RESTAPI\\Services\\ISaskiaAleaService.cs",
               "ToolTip": "D:\\GitHub\\Paag2-Interfazeen_Garapena\\2. Ebaluazioa\\WineShop\\RESTAPI\\RESTAPI\\Services\\ISaskiaAleaService.cs",
               "RelativeToolTip": "RESTAPI\\Services\\ISaskiaAleaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T09:47:48.674Z"
+              "WhenOpened": "2025-12-10T09:47:48.674Z",
+              "EditorCaption": ""
             }
           ]
         }

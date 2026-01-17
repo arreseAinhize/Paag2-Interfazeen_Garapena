@@ -34,6 +34,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 // Session konfigurazioa, garrantzitsua da hau erabiltzea

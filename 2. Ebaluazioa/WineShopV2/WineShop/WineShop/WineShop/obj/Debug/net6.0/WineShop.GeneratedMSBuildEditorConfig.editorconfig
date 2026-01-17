@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WineShop
+build_property.RootNamespace = WineShop
+build_property.ProjectDir = D:\GitHub\Paag2-Interfazeen_Garapena\2. Ebaluazioa\WineShopV2\WineShop\WineShop\WineShop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\GitHub\Paag2-Interfazeen_Garapena\2. Ebaluazioa\WineShopV2\WineShop\WineShop\WineShop
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Azterketarako/EskaerenLista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp0ZXJrZXRhcmFrb1xFc2thZXJlbkxpc3RhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Azterketarako/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp0ZXJrZXRhcmFrb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Ordaindu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkYWluZHVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Ordaindu/Osatu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkYWluZHVcT3NhdHUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Saskia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Fza2lhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Shared/Components/Ardoak/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQXJkb2FrXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Shared/Components/Karritoa/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcS2Fycml0b2FcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/Paag2-Interfazeen_Garapena/2. Ebaluazioa/WineShopV2/WineShop/WineShop/WineShop/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tr75tw4jj7
