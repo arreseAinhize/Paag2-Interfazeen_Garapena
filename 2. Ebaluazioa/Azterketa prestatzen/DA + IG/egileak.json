@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "A001",
+    "nombre_completo": "J.K. Rowling",
+    "seudonimo": null,
+    "nacionalidad": "Británica",
+    "anio_nacimiento": 1965,
+        "libros_publicados": 12
+  },
+  {
+    "_id": "A002",
+    "nombre_completo": "Sarah J. Maas",
+    "seudonimo": null,
+    "nacionalidad": "Estadounidense",
+    "anio_nacimiento": 1986,
+    "libros_publicados": 15
+  },
+  {
+    "_id": "A003",
+    "nombre_completo": "Stephanie Garber",
+    "seudonimo": null,
+    "nacionalidad": "Estadounidense",
+    "anio_nacimiento": 1985,
+        "libros_publicados": 6
+  },
+  {
+    "_id": "A004",
+    "nombre_completo": "Ana Huang",
+    "seudonimo": null,
+    "nacionalidad": "Estadounidense",
+    "anio_nacimiento": 1990,
+    "libros_publicados": 10
+  },
+  {
+    "_id": "A005",
+    "nombre_completo": "Rebecca Yarros",
+    "seudonimo": null,
+    "nacionalidad": "Estadounidense",
+    "anio_nacimiento": 1981,
+    "libros_publicados": 20
+  }
+]
